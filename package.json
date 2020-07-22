@@ -1,0 +1,36 @@
+{
+  "name": "inclusief.design",
+  "version": "0.0.1",
+  "description": "Build script for inclusief.design Jekyll site",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-cli": "*",
+    "gulp-clone": "*",
+    "gulp-concat": "*",
+    "gulp-imagemin": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-webp": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FMJansen/fmjansen.com.git"
+  },
+  "author": "Floris Jansen",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/FMJansen/fmjansen.com/issues"
+  },
+  "homepage": "https://github.com/FMJansen/fmjansen.com#readme"
+}

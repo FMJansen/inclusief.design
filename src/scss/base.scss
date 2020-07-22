@@ -1,0 +1,194 @@
+/*-------------------------------------*\
+
+  Inclusief Design
+
+  - Floris Jansen, floris@fmjansen.nl
+
+  base.scss
+  + Variables (colors and fonts)
+  + Reset
+  + Paragraph styles
+  + Header
+  + Main
+  + Footer
+  ...
+
+\*-------------------------------------*/
+
+
+
+
+
+/*-------------------------------------*\
+  Variables (colors and fonts)
+\*-------------------------------------*/
+@font-face {
+  font-family: 'Martin';
+  src: url('/fonts/MARTIN-Regular.woff2') format('woff2'),
+       url('/fonts/MARTIN-Regular.woff') format('woff'),
+       url('/fonts/MARTIN-Regular.eot') format('eot');
+}
+
+$font: 'Noto Serif', sans-serif;
+$font--heading: 'Martin', sans-serif;
+$background: #fff;
+$text: #000;
+$accent: #8144a8;
+
+// Breakpoints
+$brk--phone: 768px;
+$brk--tablet: 992px;
+$brk--desktop: 1200px;
+$brk--large-desktop: 1920px;
+
+
+
+
+
+
+/*-------------------------------------*\
+  Reset
+\*-------------------------------------*/
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: $background;
+  color: $text;
+  font-family: $font;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+
+
+
+
+/*-------------------------------------*\
+  Paragraph styles
+\*-------------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font--heading;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 3em;
+  margin: 1em 0 .5em;
+}
+
+a {
+  color: $accent;
+  font-weight: bold;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+p,
+ul,
+ol {
+  max-width: 34em;
+}
+
+li {
+  margin: 1em 0;
+}
+
+
+
+
+
+/*-------------------------------------*\
+  Header
+\*-------------------------------------*/
+.skip {
+  background: $background;
+  border: 1px solid $text;
+  color: $text;
+  display: block;
+  line-height: 1;
+  padding: 1em;
+  position: absolute;
+  top: -5em;
+
+  &:focus {
+    left: 5px;
+    top: 5px;
+    z-index: 100000;
+  }
+}
+
+.logo {
+  margin: 7.5vw .5em .25em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.menu-cont {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.main-menu {
+  display: flex;
+  flex-flow: row;
+  list-style: none;
+  margin-left: -1em;
+  padding-left: 10vw;
+
+  &__item {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__link {
+    padding: 0 1em;
+  }
+}
+
+
+
+
+
+/*-------------------------------------*\
+  Main
+\*-------------------------------------*/
+.page {
+  padding: 1.5vw 10vw 5vw;
+}
+
+
+
+
+
+
+/*-------------------------------------*\
+  Footer
+\*-------------------------------------*/
+.footer {
+  &__contact {
+    margin: 2em auto;
+    text-align: center;
+  }
+}

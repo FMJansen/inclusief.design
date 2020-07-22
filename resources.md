@@ -1,0 +1,42 @@
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
+
+- AIGA has a Diversity & Inclusion taskforce, [resource list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity--inclusion-initiative/), and [reading list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/).
+    - If you don’t like reading, there is at least a podcast they link to, [Revision Path](https://revisionpath.com/), showcasing black graphic and web designers, founded by [Maurice Cherry](https://mauricecherry.com/).
+        - He also gave a talk called [Where Are The Black Designers?](https://www.youtube.com/watch?v=eBuFCkmyYuA)
+        - With the same name, [Where Are The Black Designers?](https://wherearetheblackdesigners.com/), there is now also a first edition of an annual conference planned.
+    - Their webcast also has an [episode called Design Justice Practice: Spreading Power](https://www.aiga.org/aiga/content/why-design/design-for-good/design-for-good-webcast-series-episode-five/)
+- [Black Designers: Missing in Action](https://www.printmag.com/design-culture-2/history-2/blacks-in-design-1987/) is an article from 1987 about how the graphic design field in the USA was lacking black designers. Written by [Cheryl D. Miller](https://www.aiga.org/diversity-inclusion-design-journeys-essay-cheryl-d-miller). The same article is also available as a [scan of the original print](https://www.scribd.com/document/287765658/Black-Designers-Missing-in-Action-by-Cheryl-D-Miller).
+    - She also organized a conference in 1991, called [Why is graphic design 93% white?](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/why-is-graphic-design-93-white/)
+    - In the same magazine, there had also been a discussion by five black graphic designers in 1968: [The Black Experience in Graphic Design](https://www.printmag.com/design-culture-2/history-2/the-black-experience-1968/).
+- A [Twitter thread](https://twitter.com/SamKap/status/1267160838911201281) on things you can do in the design field by [Sameera Kapila](https://samkapila.com/) (from Curaçao, which has a colonial past with, and is still part of (The Kingdom of) The Netherlands).
+    - She also has a [page on her website](https://samkapila.com/inclusion/) listing resources on equity & inclusion.
+    - Additionally, she has a [talk on YouTube on equality in design/tech](https://www.youtube.com/watch?v=5pj8E-XbRzE).
+    - Recommends [Teaching to Transgress](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress) for design educators, which talks about “How should we deal with racism and sexism in the classroom?”, among other things.
+    - Recommends [Cross-Cultural Design](https://abookapart.com/products/cross-cultural-design) by [Senongo Akpem](https://senongo.net) ([@senongo](https://twitter.com/senongo))
+        - Who also was [interviewed](https://ux.shopify.com/challenging-assumptions-and-designing-across-cultures-23a9fadd69f5) about his book
+        - You can check out his work [on his website](https://senongo.net/) and the agency he works at, [Constructive](https://constructive.co/), who do “social impact brand strategy & experience design”
+- [Mismatch](https://mitpress.mit.edu/books/mismatch) is a book on inclusion in design, and also has an [audiobook version](https://mismatch.design/stories/2020/01/29/mismatch-audiobook-now-available/), by [Kat Holmes](https://katholmesdesign.com/), VP of Product Experience at Salesforce.
+- [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) talks about how products like search engines reinforce negative biases of women of colour, by [Dr. Safiya Umoja Noble](https://safiyaunoble.com/), an Associate Professor at the University of California, Los Angeles (UCLA) in the Department of Information Studies.
+- [Project Include](https://projectinclude.org/) has a list of [Recommendations](https://projectinclude.org/recommendations/) to give everyone a fair chance to succeed in tech.
+- [Race After Technology](https://www.ruhabenjamin.com/race-after-technology) is a book about social inequity in or as a cause of technology, by Ruha Benjamin, an Associate Professor of African American Studies at Princeton University.
+- The photographer/interviewer of [Techies](https://www.notion.so/fmjansen/Draft-Diversity-anti-racism-and-inclusion-in-design-91c0518dc44b461991a07d171bb70d79#6499be7bc2974ec6868abf75755fcc8a), [Helena Price Ambrecht](https://twitter.com/helena), also wrote [about how you can help](https://medium.com/techies-project/techies-project-how-you-can-help-a494284ca7d6).
+- The web designer of [Techies](https://www.notion.so/fmjansen/Draft-Diversity-anti-racism-and-inclusion-in-design-91c0518dc44b461991a07d171bb70d79#6499be7bc2974ec6868abf75755fcc8a), [Alonzo Felix](https://twitter.com/alonzofelix), wrote/compiled an [anti-racism guide](https://www.notion.so/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
+- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+- [Exclusive Design Principles](https://exclusive-design.vasilis.nl/)
+- [Racism and inequity are products of design. They can be redesigned.](https://medium.com/equity-design/racism-and-inequity-are-products-of-design-they-can-be-redesigned-12188363cc6a) discusses the need for and a way to make the design thinking process more focussed on creating equity: equityXdesign; “a labor of love created by [Caroline Hill](https://www.linkedin.com/in/carolineinezhill/) from [228 Accelerator](https://www.228accelerator.com/), [Michelle Molitor](https://www.linkedin.com/in/michelle-molitor-3a16638/) from [The Equity Lab](https://www.theequitylab.org/), & [Christine Ortiz](https://www.linkedin.com/in/christinemortiz/) from [Equity Meets Design](http://equitymeetsdesign.com/).”.
+- [Culture Sensitive Design](https://www.bispublishers.com/culture-sensitive-design.html) is a book on how to design with a sensitivity for different cultures, by [Annemiek van Boeijen](https://www.tudelft.nl/en/ide/about-ide/people/boeijen-agc-van/) and [Yvo Zijlstra](https://www.linkedin.com/in/yvo-zijlstra-49615b54/?originalSubdomain=nl).
+    - There is also an [online course](https://online-learning.tudelft.nl/courses/culture-sensitive-design/).
+    - And an [episode from the Out Of The Blue podcast](https://www.tudelft.nl/io/delft-design-stories/out-of-the-blue/).
+- [Vocal Type](https://www.vocaltype.co) creates and sells fonts based on signs from movements from marginalized communities.
+- [NL] The Dutch podcast Brutale Klimaatvragen has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
+- [NL] [Inclusie - Ontwerp voor iedereen](https://inclusie.gebruikercentraal.nl/) is a toolkit for designing inclusively, looking at different target audiences like immigrants, low-literate people, elderly, etc.
+- [NL] CBS has [stats](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82816NED/table?dl=3AEFE) on people who finished certain levels of education in the fields of ‘Design, art, languages and history’ (also including AV production, archeology and philosophy) as well as ‘Technology, industry and architecture’ compared to their ‘migration background’ (i.e. Dutch, western and non-western).
+    - [For the total population in The Netherlands](https://opendata.cbs.nl/#/CBS/nl/dataset/37325/table?dl=3AEFD), about 75% has a Dutch migration background, 10% has a western migration background and 14% a non-western.
+    - For the first (design) category, this fluctuates between 69–85%, 8–21%, 7–12%, respectively for those three categories. For all levels combined, that’s 73%, 17%, 10%, respectively.
+    - For the second (technology) category, it fluctuates between 72–85%, 7–17%, 7–11%, respectively. For all levels combined, that’s 82%, 10%, 8%, respectively.
+    - For those 2 (of 10 in total) fields, it seems people with a western migration background are sometimes, if not often, over represented, while people with a non-western migration background are always underrepresented.
+    - Stats for the (industrial/digital) design field specifically seem to be lacking.

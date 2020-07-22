@@ -1,0 +1,25 @@
+# Site settings
+title: Inclusief Design
+description: >-
+  Working towards a more inclusive digital/product/academic design scene in The
+  Netherlands.
+baseurl: ""
+url: "https://inclusief.design"
+repository: "https://github.com/fmjansen/inclusief.design"
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - gulpfile.js
+  - package-lock.json
+  - package.json
+  - src

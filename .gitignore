@@ -1,0 +1,16 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Folder view configuration files
+.DS_Store
+
+# Node modules
+node_modules
+
+# Static folder
+static/
+
+fonts
