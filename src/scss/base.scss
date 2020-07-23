@@ -168,8 +168,13 @@ strong {
 
   &__link {
     color: inherit;
+    font-weight: normal;
     padding: 0 1em;
     text-decoration-color: var(--accent);
+
+    &--active {
+      font-weight: bold;
+    }
   }
 }
 
