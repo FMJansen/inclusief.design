@@ -6,14 +6,12 @@ permalink: /topics/
 
 ### Basic concepts
 
-- Racism
-- Cultural (mis)appropriation
-- Equality, equity and justice
-- Bias
+The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be an ally](https://www.theconsciouskid.org/how-to-be-an-ally), which might be good to work on personally.
+
 - Design
 - Diversity
 - Inclusivity
-- Intersectionality
+- Cultural (mis)appropriation
 
 ### Working environment
 
