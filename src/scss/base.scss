@@ -29,11 +29,11 @@
        url('/fonts/MARTIN-Regular.eot') format('eot');
 }
 
-$font: 'Noto Serif', sans-serif;
+$font: 'Lora', serif;
 $font--heading: 'Martin', sans-serif;
 $background: #fff;
 $text: #000;
-$accent: #8144a8;
+$accent: #d93920;
 
 // Breakpoints
 $brk--phone: 768px;
@@ -55,11 +55,14 @@ html {
 }
 
 body {
+  --accent: #{$accent};
+  --text: #{$text};
   background: $background;
-  color: $text;
+  color: var(--text);
   font-family: $font;
-  font-size: 18px;
-  line-height: 1.6;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.8;
   margin: 0;
   word-wrap: break-word;
 }
@@ -87,32 +90,29 @@ h1 {
 
 h2 {
   font-size: 4em;
+  text-transform: uppercase;
 }
 
 h3 {
   font-size: 3em;
   margin: 1em 0 .5em;
+  text-transform: lowercase;
 }
 
 a {
-  color: $accent;
+  color: var(--accent);
   font-weight: bold;
-  text-decoration: none;
-
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
 }
 
 p,
 ul,
 ol {
-  max-width: 34em;
+  max-width: 36em;
 }
 
 li {
-  margin: 1em 0;
+  line-height: 1.6;
+  margin: 1.25em 0;
 }
 
 
@@ -124,8 +124,8 @@ li {
 \*-------------------------------------*/
 .skip {
   background: $background;
-  border: 1px solid $text;
-  color: $text;
+  border: 1px solid var(--text);
+  color: var(--text);
   display: block;
   line-height: 1;
   padding: 1em;
@@ -140,8 +140,8 @@ li {
 }
 
 .logo {
-  margin: 7.5vw .5em .25em;
-  text-align: center;
+  color: var(--accent);
+  margin: 7.5vw 10vw .25em;
   text-transform: uppercase;
 }
 
@@ -163,7 +163,9 @@ li {
   }
 
   &__link {
+    color: inherit;
     padding: 0 1em;
+    text-decoration-color: var(--accent);
   }
 }
 
@@ -175,7 +177,19 @@ li {
   Main
 \*-------------------------------------*/
 .page {
-  padding: 1.5vw 10vw 5vw;
+  padding: 1.5vw 10vw;
+
+  &--home {
+    font-size: 4.4vw;
+    font-weight: bold;
+    line-height: 1.4;
+  }
+}
+
+.home {
+  --accent: $text;
+  --text: #fff;
+  background: $accent;
 }
 
 
@@ -188,7 +202,6 @@ li {
 \*-------------------------------------*/
 .footer {
   &__contact {
-    margin: 2em auto;
-    text-align: center;
+    padding: 0 10vw 2vw;
   }
 }
