@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Initiatives and examples
 permalink: /examples/
 ---
