@@ -5,9 +5,9 @@ permalink: /resources/
 ---
 
 - AIGA has a Diversity & Inclusion taskforce, [resource list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity--inclusion-initiative/), and [reading list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/).
-    - If you don’t like reading, there is at least a podcast they link to, [Revision Path](https://revisionpath.com/), showcasing black graphic and web designers, founded by [Maurice Cherry](https://mauricecherry.com/).
+    - If you don’t like reading, there is a podcast they link to, [Revision Path](https://revisionpath.com/), showcasing black graphic and web designers, founded by [Maurice Cherry](https://mauricecherry.com/).
         - He also gave a talk called [Where Are The Black Designers?](https://www.youtube.com/watch?v=eBuFCkmyYuA)
-        - With the same name, [Where Are The Black Designers?](https://wherearetheblackdesigners.com/), there is now also a first edition of an annual conference planned.
+        - With the same name, [Where Are The Black Designers?](https://wherearetheblackdesigners.com/), is an initiative and platform for Black designers. They organized a conference, will continue doing so, and have a mentorship initiative.
     - Their webcast also has an [episode called Design Justice Practice: Spreading Power](https://www.aiga.org/aiga/content/why-design/design-for-good/design-for-good-webcast-series-episode-five/)
 - [Black Designers: Missing in Action](https://www.printmag.com/design-culture-2/history-2/blacks-in-design-1987/) is an article from 1987 about how the graphic design field in the USA was lacking black designers. Written by [Cheryl D. Miller](https://www.aiga.org/diversity-inclusion-design-journeys-essay-cheryl-d-miller). The same article is also available as a [scan of the original print](https://www.scribd.com/document/287765658/Black-Designers-Missing-in-Action-by-Cheryl-D-Miller).
     - She also organized a conference in 1991, called [Why is graphic design 93% white?](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/why-is-graphic-design-93-white/)
