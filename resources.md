@@ -33,6 +33,7 @@ permalink: /resources/
     - And an [episode from the Out Of The Blue podcast](https://www.tudelft.nl/io/delft-design-stories/out-of-the-blue/).
 - [Vocal Type](https://www.vocaltype.co) creates and sells fonts based on signs from movements from marginalized communities.
 - [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/) is a Smashing Magazine article describing several lenses to look at your digital design to improve accessibility.
+- [BLIND ABROAD](https://www.blindabroad.com/) is a website from the Legally Blind filmmaker, James Rath, featuring blogs, podcasts, a film and his YouTube channel, about travelling and experiencing technology while being blind.
 - [NL] The Dutch podcast Brutale Klimaatvragen has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
 - [NL] [Inclusie - Ontwerp voor iedereen](https://inclusie.gebruikercentraal.nl/) is a toolkit for designing inclusively, looking at different target audiences like immigrants, low-literate people, elderly, etc.
 - [NL] CBS has [stats](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82816NED/table?dl=3AEFE) on people who finished certain levels of education in the fields of ‘Design, art, languages and history’ (also including AV production, archeology and philosophy) as well as ‘Technology, industry and architecture’ compared to their ‘migration background’ (i.e. Dutch, western and non-western).
