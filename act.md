@@ -4,7 +4,17 @@ title: Act
 permalink: /act/
 ---
 
+### Everywhere
+
+Listening: in making your surroundings more inclusive, make sure you do what designers should be able to best: listen to what people have to say and what they need in order to feel comfortable and enabled.
+
+### Design process & products
+
+// TODO: accessibility, languague in products, bias in algorithms...
+
 ### Working environment
+
+**There’s much more at [Project Include](https://projectinclude.org/recommendations/). If you need inspiration from a Dutch cultural context, check out [Code Diversiteit & Inclusie](https://codedi.nl/)**
 
 - Value proposition
 - Establish facts
@@ -12,8 +22,20 @@ permalink: /act/
 - Define governance
 - Build inclusion
 - Do not exploit for profit
-- Hiring and retention
-- Ask about
+
+- Hire people to work on D&I. – [Project Include - Implementing Inclusive Cultures](https://projectinclude.org/implementing_culture#staff-for-building-inclusion)
+- Code of conduct: “A code of conduct sets company norms for behavior. These norms are the foundation for diversity and inclusion” – [Project Include - Guide to writing a code of conduct](https://projectinclude.org/writing_cocs)
+- Retention: after hiring people while striving for diversity, you need to continue making your workspace more inclusive, otherwise the you’re not making sustainable progress. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=986)
+- Build transparency into your company culture. – [Project Include - Defining Culture](https://projectinclude.org/defining_culture#build-transparency-into-company-culture)
+- Consider a ‘swear jar’ for exclusive language. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1240)
+- Donate to (local) initiatives that strive for diversity and inclusion, like communities for underrepresented groups, diverse meet-ups, etc. and buy products/services from companies that share your inclusive values.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1689)
+
+#### Hiring
+
+- Improve the language in your job descriptions, for example with the tips from [Hire More Women in Tech](https://www.hiremorewomenintech.com/#block-yui_3_17_2_1_1404580746562_9726), and maybe by using tools such as [Joblint](https://joblint.org/) or [Textio](https://textio.com/). For Dutch listings, you could get started with [(Incomplete) Stijlgids voor inclusieve (beeld)taal](https://205rpe43adla3g1ggs4flrux-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/WOMEN-Inc-stijlgids-versie-augustus-2020.pdf) from [Women Inc](https://www.womeninc.nl/)
+- Make sure to bring your positions to the attention outside of your network. – [Melody Joy Kramer](https://twitter.com/mkramer) at [Poynter](https://www.poynter.org/business-work/2017/5-ways-to-make-your-journalism-job-descriptions-better/)
+- “Train and hold accountable everyone involved in the hiring process.” and formalize the process (e.g. interview questions and a rubric) to make the treatment of candidates fair and equal. – [stacy-marie ishmael](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5)
+- When _being_ interviewed, ask about diversity and inclusion.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1712)
 
 ### Field
 
@@ -24,6 +46,6 @@ permalink: /act/
 
 ### Design education
 
-- Non-white/eurocentric design history
+- When teaching design history, try to stay away from a completely eurocentric curriculum; ask for it as a student; teach it yourself as a professional. – [Sameera Kapila](https://threadreaderapp.com/thread/1267160838911201281.html)
 - Promotion
 - Scholarships?
