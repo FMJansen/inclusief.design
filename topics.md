@@ -32,30 +32,6 @@ Cultural misappropriation and similar terms have varying definitions depending o
 
 However, to get a better understanding of the concept and its problems, [Nicole Phillips’](https://www.theodysseyonline.com/satire-as-survival), [Nadra Kareem Nittle’s](https://www.thoughtco.com/cultural-appropriation-and-why-iits-wrong-2834561), [Maisha Z. Johnson’s](https://everydayfeminism.com/2015/06/cultural-appropriation-wrong/) and [Eden Caceda’s](https://www.smh.com.au/opinion/our-cultures-are-not-your-costumes-20141114-11myp4.html) articles might help.
 
-### Working environment
-
-- Value proposition
-- Establish facts
-- Create initiatives
-- Define governance
-- Build inclusion
-- Do not exploit for profit
-- Hiring and retention
-- Ask about
-
-### Field
-
-- Outreach
-    - Mentorship
-    - Events
-- Representation
-
-### Design education
-
-- Non-white/eurocentric design history
-- Promotion
-- Scholarships?
-
 ### Products & process
 
 - Bias in algorithms
