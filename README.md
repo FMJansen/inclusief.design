@@ -2,7 +2,7 @@
 
 A website showcasing resources, working towards a more inclusive digital/product/academic design scene in The Netherlands.
 
-# About
+## About
 
 ### Why
 
