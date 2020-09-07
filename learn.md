@@ -36,6 +36,4 @@ However, to get a better understanding of the concept and its problems, [Nicole 
 Bias itself is defined by [The Conscious Kid](https://www.theconsciouskid.org/) as
 > “Refers to the attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner.” – [Racial Literacy: Key Terms](https://www.theconsciouskid.org/racial-literacy-key-terms)
 
-- Accessibility
-- Human centred design
 As those biases exist in people, they are likely to transfer to the datasets and algorithms used in product design.
