@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About & Contributing
 permalink: /about/
 ---
 
@@ -13,6 +13,12 @@ There is an alarming lack of (visible) black designers and other people of colou
 ### What
 
 So this is a messy, work-in-progress, non-exhaustive list of resources and some general findings for which resources are not yet discovered. There are no call-to-actions yet, because of the mess and WIP, but hopefully they’ll come.
+
+### Contributing
+
+This is (and probably will always be) a work in progress.
+
+You can contribute by creating a pull request on [GitHub]({{ site.repository }}) or reaching out on [Insta](https://www.instagram.com/fmjansennl/), [Twitter](https://twitter.com/fmjansen), [Telegram](https://telegram.me/fmjansen) or [email](mailto:inclusion@fmjansen.nl) (inclusion@fmjansen.nl).
 
 ### Thanks
 
