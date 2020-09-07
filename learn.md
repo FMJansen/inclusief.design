@@ -32,8 +32,10 @@ Cultural misappropriation and similar terms have varying definitions depending o
 
 However, to get a better understanding of the concept and its problems, [Nicole Phillips’](https://www.theodysseyonline.com/satire-as-survival), [Nadra Kareem Nittle’s](https://www.thoughtco.com/cultural-appropriation-and-why-iits-wrong-2834561), [Maisha Z. Johnson’s](https://everydayfeminism.com/2015/06/cultural-appropriation-wrong/) and [Eden Caceda’s](https://www.smh.com.au/opinion/our-cultures-are-not-your-costumes-20141114-11myp4.html) articles might help.
 
-### Products & process
+#### Bias in algorithms
+Bias itself is defined by [The Conscious Kid](https://www.theconsciouskid.org/) as
+> “Refers to the attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner.” – [Racial Literacy: Key Terms](https://www.theconsciouskid.org/racial-literacy-key-terms)
 
-- Bias in algorithms
 - Accessibility
 - Human centred design
+As those biases exist in people, they are likely to transfer to the datasets and algorithms used in product design.
