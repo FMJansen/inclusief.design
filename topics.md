@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Topics
-permalink: /topics/
+title: Learn
+permalink: /learn/
 ---
 
 ### Basic concepts
