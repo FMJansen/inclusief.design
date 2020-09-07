@@ -13,3 +13,18 @@ There is an alarming lack of (visible) black designers and other people of colou
 ### What
 
 So this is a messy, work-in-progress, non-exhaustive list of resources and some general findings for which resources are not yet discovered. There are no call-to-actions yet, because of the mess and WIP, but hopefully they’ll come.
+
+---
+
+## Development
+
+### Setup
+
+0. Make sure you have installed Node, npm and Ruby
+1. Install [jekyll](https://jekyllrb.com/) and bundler: `gem install bundler jekyll`
+2. Install Gulp CLI `npm install --global gulp-cli`
+3. Run `npm install`
+
+### Run
+1. Run `bundle exec jekyll serve`
+2. Run `gulp` in another cli window/tab
