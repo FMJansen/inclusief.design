@@ -5,6 +5,8 @@ permalink: /examples/
 ---
 
 - [Code2040](https://www.code2040.org/) is a program working to “[activate, connect, and mobilize the largest racial equity community in tech](https://www.code2040.org/mission)”.
+- [Tech Ladies](https://www.hiretechladies.com/) is a worldwide community with a supportive online group, a free job board, and opportunities to learn.
+- [PowerToFly](https://powertofly.com) is a platform to propel diversity recruiting and hiring. They help reaching talent pools of underrepresented female engineers at a centralized and lower cost
 - [Ideas42](https://www.ideas42.org/) is “a non-profit that uses insights from behavioral science to improve lives, build better systems and policies, and drive social change” who also focusses on [equitable justice](https://www.ideas42.org/all-projects/?domains=199&focus_group=231), with [a diverse team](https://www.ideas42.org/about-us/people/).
 - [IDEO Amplify](https://www.ideo.org/programs/amplify) is a project using human centered design methods in ‘international development’ and also has a [diverse team](https://www.ideo.org/team).
 - [Bueno](https://bueno.co/) is where Ueno highlights projects and things they’ve supported, like:
