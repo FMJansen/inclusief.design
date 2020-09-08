@@ -36,7 +36,9 @@
     <a href="#site-content" class="skip">Skip to content</a>
 
     <header>
-      <h1 class="logo">Inclusief Design</h1>
+      <h1 class="logo">Inclusief Design{% if page.url != "/" %}:
+        <span class="logo__page">{{ page.title }}</span>{% endif %}
+      </h1>
     </header>
 
     <nav class="menu-cont">

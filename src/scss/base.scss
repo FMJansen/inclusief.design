@@ -160,6 +160,10 @@ blockquote {
   color: var(--accent);
   margin: 7.5vw 10vw .25em;
   text-transform: uppercase;
+
+  &__page {
+    color: var(--text);
+  }
 }
 
 .menu-cont {
