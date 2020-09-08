@@ -16,14 +16,7 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 
 **There’s much more at [Project Include](https://projectinclude.org/recommendations/). If you need inspiration from a Dutch cultural context, check out [Code Diversiteit & Inclusie](https://codedi.nl/)**
 
-- Value proposition
-- Establish facts
-- Create initiatives
-- Define governance
-- Build inclusion
-- Do not exploit for profit
-
-- Hire people to work on D&I. – [Project Include - Implementing Inclusive Cultures](https://projectinclude.org/implementing_culture#staff-for-building-inclusion)
+- Hire people to work on D&I and make sure there is governance. – [Project Include - Implementing Inclusive Cultures](https://projectinclude.org/implementing_culture#staff-for-building-inclusion), [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1090)
 - Code of conduct: “A code of conduct sets company norms for behavior. These norms are the foundation for diversity and inclusion” – [Project Include - Guide to writing a code of conduct](https://projectinclude.org/writing_cocs)
 - Retention: after hiring people while striving for diversity, you need to continue making your workspace more inclusive, otherwise the you’re not making sustainable progress. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=986)
 - Build transparency into your company culture. – [Project Include - Defining Culture](https://projectinclude.org/defining_culture#build-transparency-into-company-culture)
@@ -39,9 +32,8 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 
 ### Field
 
-- Outreach
-    - Mentorship
-    - Events
+- Mentorship: To get more people from underrepresented groups into the field of design, you could think about mentoring students from local high schools. “There are talented students that love to draw, love to design, but they may not know how do I turn this from a hobby (...) into a career” – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=948) _BNO has [mentoring](https://www.bno.nl/page/bno-mentoring) and [coaching](https://www.bno.nl/page/bno-coaching) programs, but it’s only for members and a one-time thing or paid._
+- Events: When organising an event, like a conference or meet-up, try to make sure you have a diverse group of speakers, among other things. You could use [Ashe Drydens list](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference) to help get started with that. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1013)
 - Representation
 
 ### Design education
