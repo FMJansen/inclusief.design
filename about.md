@@ -6,9 +6,7 @@ permalink: /about/
 
 ## Why
 
-There is an alarming lack of (visible) black designers and other people of colour in the Dutch industrial/digital design community*. It can help to look at diversity, anti-racism and inclusion in the field of design. On a personal, organisational and societal level, we can learn a lot as white designers. To make us more aware, reading and listening to the people of colour we do have is important, but it can be hard to find relevant resources.
-
-_(*) It should be mentioned that there is definitely diversity to some degree, for example thanks to students who do/have done their master’s in The Netherlands or moved here after their education. However, Dutch people of colour definitely seem to be underrepresented in the (academic) design field._
+The Dutch design field isn’t an accurate representation of our society, but it should be. To make sure everyone has a chance to design the world around us. It can help to look at diversity, anti-racism and inclusion in the field of design. On a personal, organisational and societal level, we can learn a lot as white designers. To make us more aware, reading and listening to the people of colour we do have is important, but it can be hard to find relevant resources.
 
 ## What
 
