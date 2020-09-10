@@ -92,10 +92,6 @@ h1 {
   }
 }
 
-.home h1 {
-  font-size: 7em;
-}
-
 h2 {
   font-size: 3em;
   margin: 1.25em 0 .25em;
@@ -180,6 +176,16 @@ blockquote {
   }
 }
 
+.home .logo {
+  font-size: 27vw;
+  margin-top: 20vw;
+
+  @media (min-width: $brk--phone) {
+    font-size: 12em;
+    margin-top: 10vw;
+  }
+}
+
 .menu-cont {
   overflow-x: auto;
   width: 100%;
@@ -220,9 +226,13 @@ blockquote {
   padding: 1.5vw 10vw;
 
   &--home {
-    font-size: 4.4vw;
+    font-size: 1.4em;
     font-weight: bold;
     line-height: 1.4;
+
+    @media (min-width: $brk--phone) {
+      font-size: 4.4vw;
+    }
   }
 }
 
