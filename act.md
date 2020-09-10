@@ -22,6 +22,8 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 - Build transparency into your company culture. – [Project Include - Defining Culture](https://projectinclude.org/defining_culture#build-transparency-into-company-culture)
 - Consider a ‘swear jar’ for exclusive language. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1240)
 - Donate to (local) initiatives that strive for diversity and inclusion, like communities for underrepresented groups, diverse meet-ups, etc. and buy products/services from companies that share your inclusive values.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1689)
+- Mentorship: To get more people from underrepresented groups into the field of design, you could think about mentoring students from local high schools. “There are talented students that love to draw, love to design, but they may not know how do I turn this from a hobby (...) into a career” – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=948) _BNO has [mentoring](https://www.bno.nl/page/bno-mentoring) and [coaching](https://www.bno.nl/page/bno-coaching) programs, but it’s only for members and a one-time thing or paid._
+- Events: When organising an event, like a conference or meet-up, try to make sure you have a diverse group of speakers, among other things. You could use [Ashe Drydens list](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference) to help get started with that. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1013)
 
 ## Hiring
 
@@ -29,12 +31,6 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 - Make sure to bring your positions to the attention outside of your network. – [Melody Joy Kramer](https://twitter.com/mkramer) at [Poynter](https://www.poynter.org/business-work/2017/5-ways-to-make-your-journalism-job-descriptions-better/)
 - “Train and hold accountable everyone involved in the hiring process.” and formalize the process (e.g. interview questions and a rubric) to make the treatment of candidates fair and equal. – [stacy-marie ishmael](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5)
 - When _being_ interviewed, ask about diversity and inclusion.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1712)
-
-## Field
-
-- Mentorship: To get more people from underrepresented groups into the field of design, you could think about mentoring students from local high schools. “There are talented students that love to draw, love to design, but they may not know how do I turn this from a hobby (...) into a career” – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=948) _BNO has [mentoring](https://www.bno.nl/page/bno-mentoring) and [coaching](https://www.bno.nl/page/bno-coaching) programs, but it’s only for members and a one-time thing or paid._
-- Events: When organising an event, like a conference or meet-up, try to make sure you have a diverse group of speakers, among other things. You could use [Ashe Drydens list](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference) to help get started with that. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1013)
-- Representation
 
 ## Design education
 
