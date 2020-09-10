@@ -23,6 +23,7 @@
   Variables (colors and fonts)
 \*-------------------------------------*/
 @font-face {
+  font-display: swap;
   font-family: 'Martin';
   src: url('/fonts/MARTIN-Regular.woff2') format('woff2'),
        url('/fonts/MARTIN-Regular.woff') format('woff'),
