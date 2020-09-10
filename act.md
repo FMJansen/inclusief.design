@@ -23,7 +23,7 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 - Consider a ‘swear jar’ for exclusive language. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1240)
 - Donate to (local) initiatives that strive for diversity and inclusion, like communities for underrepresented groups, diverse meet-ups, etc. and buy products/services from companies that share your inclusive values.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1689)
 
-### Hiring
+## Hiring
 
 - Improve the language in your job descriptions, for example with the tips from [Hire More Women in Tech](https://www.hiremorewomenintech.com/#block-yui_3_17_2_1_1404580746562_9726), and maybe by using tools such as [Joblint](https://joblint.org/) or [Textio](https://textio.com/). For Dutch listings, you could get started with [(Incomplete) Stijlgids voor inclusieve (beeld)taal](https://205rpe43adla3g1ggs4flrux-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/WOMEN-Inc-stijlgids-versie-augustus-2020.pdf) from [Women Inc](https://www.womeninc.nl/)
 - Make sure to bring your positions to the attention outside of your network. – [Melody Joy Kramer](https://twitter.com/mkramer) at [Poynter](https://www.poynter.org/business-work/2017/5-ways-to-make-your-journalism-job-descriptions-better/)
