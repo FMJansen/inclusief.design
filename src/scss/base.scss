@@ -60,7 +60,7 @@ body {
   background: $background;
   color: var(--text);
   font-family: $font;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 300;
   line-height: 1.8;
   margin: 0;
@@ -81,11 +81,19 @@ h4,
 h5,
 h6 {
   font-family: $font--heading;
-  line-height: 1;
+  line-height: .75;
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 15vw;
+
+  @media (min-width: $brk--phone) {
+    font-size: 6em;
+  }
+}
+
+.home h1 {
+  font-size: 7em;
 }
 
 h2 {
