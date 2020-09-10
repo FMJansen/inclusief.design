@@ -27,3 +27,7 @@ You can contribute by creating a pull request on [GitHub]({{ site.repository }})
 - [Tycho](https://twitter.com/tychografie) who suggested some of the resources and examples
 - [Dezge](https://twitter.com/Deszie_) who suggested Diversity Talks
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
+
+## Fonts
+
+[Martin](https://www.vocaltype.co/history-of/martin) by [Vocal Type Co.](https://www.vocaltype.co/story-of) for the headings and [Lora](https://fonts.google.com/specimen/Lora?category=Serif&preview.size=18&preview.text_type=paragraph) by [Cyreal](http://www.cyreal.org/) for the body text.
