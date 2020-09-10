@@ -9,7 +9,7 @@ When trying to make your design process, products and people more inclusive, the
 ## Design
 Designers love debating about what design is, but for this website it might be defined as creating products, services, systems and spaces with a certain intent. It’s especially approached from the academic and industrial design point of view, with a human centred approach.
 
-## Racism, equity, intersectionality, etc.
+## Racism, equity, intersection&shy;ality, etc.
 The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be an ally](https://www.theconsciouskid.org/how-to-be-an-ally), which might be good to work on personally.
 
 ## Inclusivity
@@ -24,7 +24,7 @@ One way to describe or define accessibility is the following:
 
 Additionally, it might concern making those spaces accessible for people with lower budgets or different cultural or lingual backgrounds, and more.
 
-## Cultural (mis)appropriation
+## Cultural (mis)appro&shy;priation
 Cultural misappropriation and similar terms have varying definitions depending on the context and cultures concerned. The most succint definition I found, which seems to fit many situations, was the following:
 > “the appropriation of elements of a subordinated culture by a dominant culture without substantive reciprocity, permission, and/or compensation.” – [Richard A. Rogers’ definition of Cultural exploitation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-2885.2006.00277.x)
 
