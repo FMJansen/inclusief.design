@@ -100,9 +100,7 @@ gulp.task('copy-scss', function() {
 // Copy & Webp images
 gulp.task('images', function() {
     return gulp.src([
-      src + 'images/**/*',
-      '!' + src + 'images/printers/design*'
-        ])
+      src + 'images/**/*' ])
         .pipe(sink)
         .pipe(webp())
         .pipe(sink.tap())
