@@ -109,3 +109,4 @@ layout: home
 - Improving the workings/looks/setup of this website
 - Collecting statistics on the make-up of the Dutch design community
 - Possibly featuring the stories of people who are underrepresented
+- Adding a Dutch translation
