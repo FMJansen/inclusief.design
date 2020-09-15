@@ -19,7 +19,7 @@ layout: home
       <a href="https://www.entrepreneur.com/article/240550">Kim Abreu at Glassdoor</a>
     </li>
     <li>
-      It also makes recruitment easier because your looking at a larger group of candidates. –
+      It also makes recruitment easier because you’re looking at a larger group of candidates. –
       <a href="https://youtu.be/eBuFCkmyYuA?t=1241">Maurice Cherry</a>
     </li>
     <li>
