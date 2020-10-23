@@ -23,6 +23,8 @@ permalink: /examples/
     - [They link](https://blackswho.design/about) to similar projects for [women](https://womenwho.design) and [Latinxs](https://latinxswhodesign.com).
 - [Hue Design Summit](https://huedesignsummit.com) is an “un-conference for black developers & designers to foster relationships & build community.”
 - [DesignExplorr](https://designexplorr.com) is “an organization that operates as a social enterprise to address the diversity gap within the design profession.”
+- [Design As Protest](https://www.dapcollective.com/) is a group of “Anti-Racist designers dedicated to Design Justice in the built environment”
+- [Stalled!](https://www.stalled.online/) is an initiative facilitating “the need to create safe, sustainable and inclusive public restrooms for everyone regardless of age, gender, race, religion and disability”
 - [NL] [Code Diversiteit & Inclusie](https://codedi.nl/) is a ‘code’ for the Dutch cultural and creative industry to become more inclusive.
 - [NL] [Studio i](https://studio-inclusie.nl) is a platform for inclusivity in the Dutch cultural sector.
 - [NL] [Diversity Talks](https://diversitytalks.nl) is a Amsterdam based organisation focussed on improving diversity en inclusion in society, fair higher education and equal opportunity in the road towards it.

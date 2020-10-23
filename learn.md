@@ -24,6 +24,8 @@ One way to describe or define accessibility is the following:
 
 Additionally, it might concern making those spaces accessible for people with lower budgets or different cultural or lingual backgrounds, and more.
 
+You can also think about accessibility while focussing less on abilities and more on access, as “Access is (or should be) universal, regardless of ability.” – [Dan Eden](https://daneden.me/blog/2020/access-ability)
+
 ## Cultural (mis)appro&shy;priation
 Cultural misappropriation and similar terms have varying definitions depending on the context and cultures concerned. The most succint definition I found, which seems to fit many situations, was the following:
 > “the appropriation of elements of a subordinated culture by a dominant culture without substantive reciprocity, permission, and/or compensation.” – [Richard A. Rogers’ definition of Cultural exploitation](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-2885.2006.00277.x)
