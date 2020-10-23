@@ -15,7 +15,7 @@ layout: home
   <p>Also, there are benefits to making sure your company and products are inclusive:</p>
   <ul>
     <li>
-      Diversity makes recruitment easier, because people who are looking for a job value it. –
+      Diversity makes recruitment easier, because it’s valued by people who are looking for a job. –
       <a href="https://www.entrepreneur.com/article/240550">Kim Abreu at Glassdoor</a>
     </li>
     <li>
