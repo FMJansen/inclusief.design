@@ -4,4 +4,4 @@ title: Resources
 permalink: /:basename/
 ---
 
-_The resources are now moved to the [Learn](/learn), [Environment](/environment) and [Process & Product](/process)_ 
+_The resources have been now moved to the [Learn](/learn), [Environment](/environment) and [Process & Product](/process)_ 
