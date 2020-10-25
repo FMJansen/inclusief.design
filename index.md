@@ -11,7 +11,7 @@ layout: home
 <section class="home__why">
 
   <h2 id="why">Why?</h2>
-  <p>The Dutch design field isn’t an accurate representation of our society*, but it should be. To make sure everyone has a chance to design the world around us.</p>
+  <p>The Dutch design field isn’t an accurate representation of our society*, but it should be. To make sure everyone has a chance to design and access the world around us.</p>
   <p>Also, there are benefits to making sure your company and products are inclusive:</p>
   <ul>
     <li>
