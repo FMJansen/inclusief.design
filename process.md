@@ -29,6 +29,7 @@ _TODO: bias in algorithms_
 - [Senongo Akpem](https://senongo.net) wrote [Cross-Cultural Design](https://abookapart.com/products/cross-cultural-design) and was [interviewed](https://ux.shopify.com/challenging-assumptions-and-designing-across-cultures-23a9fadd69f5) about it
   - You can check out his work [on his website](https://senongo.net/) and the agency he works at, [Constructive](https://constructive.co/), who do “social impact brand strategy & experience design”
 - AIGA’s webcast has an [episode called Design Justice Practice: Spreading Power](https://www.aiga.org/aiga/content/why-design/design-for-good/design-for-good-webcast-series-episode-five/)
+- [Invisible Women](https://99percentinvisible.org/episode/invisible-women/) is an episode of 99% Invisible, discussing the lack of data on the female population, resulting in more injuries and deaths, worse healthcare, low adoption rates for new products, among other things.
 
 ### AI/ML/Algorithms
 - [Race After Technology](https://www.ruhabenjamin.com/race-after-technology) is a book about social inequity in, or as a cause of, technology, by Ruha Benjamin, an Associate Professor of African American Studies at Princeton University.
@@ -44,3 +45,11 @@ _TODO: bias in algorithms_
 
 ## Examples
 - [Design System Dutch Government](https://nl-design-system.gitlab.io/nl-design-system/index.html)
+- [Ideas42](https://www.ideas42.org/) is “a non-profit that uses insights from behavioral science to improve lives, build better systems and policies, and drive social change” who also focusses on [equitable justice](https://www.ideas42.org/all-projects/?domains=199&focus_group=231), with [a diverse team](https://www.ideas42.org/about-us/people/).
+- [IDEO Amplify](https://www.ideo.org/programs/amplify) is a project using human centered design methods in ‘international development’ and also has a [diverse team](https://www.ideo.org/team).
+- [Hema Foundation](https://hema-foundation.org/?lang=en) is focussed on creating an inclusive society, working on low literacy until 2022.
+- [Design As Protest](https://www.dapcollective.com/) is a group of “Anti-Racist designers dedicated to Design Justice in the built environment”
+- [Stalled!](https://www.stalled.online/) is an initiative facilitating “the need to create safe, sustainable and inclusive public restrooms for everyone regardless of age, gender, race, religion and disability”
+- [The Hair Chart](https://99percentinvisible.org/episode/the-hair-chart/) is an episode of 99% Invisible in collaboration with [The Stoop](https://www.thestoop.org/), “a podcast hosted by Leila Day and Hana Baba, which features stories from across the black diaspora.” It handles the history behind criticism of a hair chart. They also have [an episode on that themselves](https://www.thestoop.org/home/2018/4/20/episode-13-are-you-a-4c).
+- [WePresent](https://wepresent.wetransfer.com) showcases work from creatives, including ([graphic](https://wepresent.wetransfer.com/category/graphic-design/)) [design](https://wepresent.wetransfer.com/category/design/), saying “Diversity is at the center of what we do.” (and following up on that in their selection).
+- [Design Indaba](http://www.designindaba.com/) highlights African and global design/creativity. They also have a [database of African and international creatives](http://www.designindaba.com/profiles).

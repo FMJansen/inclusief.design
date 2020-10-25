@@ -54,3 +54,16 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 ## Examples & initiatives
 - [Revision Path](https://revisionpath.com/), showcases black graphic and web designers, founded by [Maurice Cherry](https://mauricecherry.com/).
 - [Where Are The Black Designers?](https://wherearetheblackdesigners.com/) is an initiative and platform for Black designers. They organized a conference, will continue doing so, and have a mentorship initiative.
+- [Code2040](https://www.code2040.org/) is a program working to “[activate, connect, and mobilize the largest racial equity community in tech](https://www.code2040.org/mission)”.
+- [Tech Ladies](https://www.hiretechladies.com/) is a worldwide community with a supportive online group, a free job board, and opportunities to learn.
+- [PowerToFly](https://powertofly.com) is a platform to propel diversity recruiting and hiring. They help reaching talent pools of underrepresented female engineers at a centralized and lower cost
+- [Hue Design Summit](https://huedesignsummit.com) is an “un-conference for black developers & designers to foster relationships & build community.”
+- [Blacks Who Design](https://blackswho.design) highlights, well, black designers.
+    - [They link](https://blackswho.design/about) to similar projects for [women](https://womenwho.design) and [Latinxs](https://latinxswhodesign.com).
+- [BIPOC Studios](https://bit.ly/bipoc-studios) is a list of architecture and design studios (most also owned by women and/or black people). At the moment of writing it features one Dutch studio, [Afara](https://www.afarai.com/).
+- [DesignExplorr](https://designexplorr.com) is “an organization that operates as a social enterprise to address the diversity gap within the design profession.”
+- [Women Talk Design](https://womentalkdesign.com/) helps you find women and gender non-binary speakers for events.
+- [Techies](https://techiesproject.com/) highlights people of color and other people who are underrepresented in the tech narrative.
+- [A Seat At The Table](https://aseat.org/) was (an exhibition about) a survey by [Equality in Design](https://equalityindesign.tumblr.com/), a student group at the Yale School of Architecture.
+- [NL] [Diversity Talks](https://diversitytalks.nl) is a Amsterdam based organisation focussed on improving diversity en inclusion in society, fair higher education and equal opportunity in the road towards it.
+- [NL] [Studio i](https://studio-inclusie.nl) is a platform for inclusivity in the Dutch cultural sector.
