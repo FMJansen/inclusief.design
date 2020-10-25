@@ -36,6 +36,7 @@ $font--heading: 'Martin', sans-serif;
 $background: #fff;
 $text: #000;
 $accent: #d93920;
+$anchors: #1c29a8;
 
 // Breakpoints
 $brk--phone: 768px;
@@ -101,8 +102,7 @@ h2 {
 }
 
 a {
-  color: var(--accent);
-  font-weight: bold;
+  color: $anchors;
 }
 
 p,
