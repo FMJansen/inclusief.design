@@ -34,3 +34,23 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 
 - When teaching design history, try to stay away from a completely eurocentric curriculum; ask for it as a student; teach it yourself as a professional. – [Sameera Kapila](https://threadreaderapp.com/thread/1267160838911201281.html)
 - Don’t separate people based on their gender, especially bathrooms. – [Fact Sheet: Transgender & Gender Nonconforming Youth In School](https://srlp.org/resources/fact-sheet-transgender-gender-nonconforming-youth-school/), [Stalled!](https://www.stalled.online/)
+
+## More resources
+- [Black Designers: Missing in Action](https://www.printmag.com/design-culture-2/history-2/blacks-in-design-1987/) is an article from 1987 about how the graphic design field in the USA was lacking black designers. Written by [Cheryl D. Miller](https://www.aiga.org/diversity-inclusion-design-journeys-essay-cheryl-d-miller). The same article is also available as a [scan of the original print](https://www.scribd.com/document/287765658/Black-Designers-Missing-in-Action-by-Cheryl-D-Miller).
+    - She also organized a conference in 1991, called [Why is graphic design 93% white?](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/why-is-graphic-design-93-white/)
+    - In the same magazine, there had also been a discussion by five black graphic designers in 1968: [The Black Experience in Graphic Design](https://www.printmag.com/design-culture-2/history-2/the-black-experience-1968/).
+- [Helena Price Ambrecht](https://twitter.com/helena), the photographer/interviewer of [Techies](https://techiesproject.com/), also wrote [about how you can help](https://medium.com/techies-project/techies-project-how-you-can-help-a494284ca7d6).
+- [Sameera Kapila](https://samkapila.com/) wrote a [Twitter thread](https://threadreaderapp.com/thread/1267160838911201281.html) on things you can do in the design field by
+  - She also has a [page on her website](https://samkapila.com/inclusion/) listing resources on equity & inclusion.
+  - Recommends [Teaching to Transgress](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress) for design educators, which talks about “How should we deal with racism and sexism in the classroom?”, among other things.
+  - Recommends [Cross-Cultural Design](https://abookapart.com/products/cross-cultural-design) by [Senongo Akpem](https://senongo.net) ([@senongo](https://twitter.com/senongo))
+- [NL] CBS has [stats](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82816NED/table?dl=3AEFE) on people who finished certain levels of education in the fields of ‘Design, art, languages and history’ (also including AV production, archeology and philosophy) as well as ‘Technology, industry and architecture’ compared to their ‘migration background’ (i.e. Dutch, western and non-western).
+    - [For the total population in The Netherlands](https://opendata.cbs.nl/#/CBS/nl/dataset/37325/table?dl=3AEFD), about 75% has a Dutch migration background, 10% has a western migration background and 14% a non-western.
+    - For the first (design) category, this fluctuates between 69–85%, 8–21%, 7–12%, respectively for those three categories. For all levels combined, that’s 73%, 17%, 10%, respectively.
+    - For the second (technology) category, it fluctuates between 72–85%, 7–17%, 7–11%, respectively. For all levels combined, that’s 82%, 10%, 8%, respectively.
+    - For those 2 (of 10 in total) fields, it seems people with a western migration background are sometimes, if not often, over represented, while people with a non-western migration background are always underrepresented.
+    - Stats for the (industrial/digital) design field specifically seem to be lacking.
+
+## Examples & initiatives
+- [Revision Path](https://revisionpath.com/), showcases black graphic and web designers, founded by [Maurice Cherry](https://mauricecherry.com/).
+- [Where Are The Black Designers?](https://wherearetheblackdesigners.com/) is an initiative and platform for Black designers. They organized a conference, will continue doing so, and have a mentorship initiative.

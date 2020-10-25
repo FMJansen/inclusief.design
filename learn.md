@@ -37,3 +37,8 @@ Bias itself is defined by [The Conscious Kid](https://www.theconsciouskid.org/) 
 > “Refers to the attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner.” – [Racial Literacy: Key Terms](https://www.theconsciouskid.org/racial-literacy-key-terms)
 
 As those biases exist in people, they are likely to transfer to the datasets and algorithms used in product design.
+
+## More resources
+- [NL] The Dutch podcast Brutale Klimaatvragen has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
+- [Alonzo Felix](https://twitter.com/alonzofelix) compiled an [anti-racism guide](https://www.notion.so/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
+- [Diversity, Equity, and Inclusion](https://www.aiga.org/diversity-equity-inclusion) and [Diversity & Inclusion: learning basics](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/) – AIGA
