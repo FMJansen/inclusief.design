@@ -87,10 +87,8 @@ layout: home
         <h3 class="page-card__subject">Process & products</h3>
         <ul class="page-card__parts">
           <li class="page-card__part">
-            <span class="page-card__link">Products - TODO</span>
-          </li>
-          <li class="page-card__part">
-            <span class="page-card__link">Process - TODO</span>
+            <a class="page-card__link" href="/process/">
+              Process</a>
           </li>
         </ul>
       </article>
