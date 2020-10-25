@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Act
-permalink: /act/
+permalink: /:basename/
 ---
 
 ## Everywhere

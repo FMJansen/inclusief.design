@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-permalink: /resources/
+permalink: /:basename/
 ---
 
 - AIGA has a Diversity & Inclusion taskforce, [resource list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity--inclusion-initiative/), and [reading list](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/).

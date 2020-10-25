@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About & Contributing
-permalink: /about/
+permalink: /:basename/
 ---
 
 ## Why

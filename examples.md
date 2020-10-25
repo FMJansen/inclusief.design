@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Initiatives and examples
-permalink: /examples/
+permalink: /:basename/
 ---
 
 - [Code2040](https://www.code2040.org/) is a program working to “[activate, connect, and mobilize the largest racial equity community in tech](https://www.code2040.org/mission)”.
