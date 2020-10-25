@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Act
+title: Environment
 permalink: /:basename/
 ---
 
@@ -8,16 +8,12 @@ permalink: /:basename/
 
 Listening: in making your surroundings more inclusive, make sure you do what designers should be able to best: listen to what people have to say and what they need in order to feel comfortable and enabled.
 
-## Design process & products
-
-// TODO: accessibility, languague in products, bias in algorithms...
-
 ## Working environment
 
 **There’s much more at [Project Include](https://projectinclude.org/recommendations/). If you need inspiration from a Dutch cultural context, check out [Code Diversiteit & Inclusie](https://codedi.nl/)**
 
 - Hire people to work on D&I and make sure there is governance. – [Project Include - Implementing Inclusive Cultures](https://projectinclude.org/implementing_culture#staff-for-building-inclusion), [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1090)
-- Make sure not to hire just women in ‘empathy roles’ and to value empathy work equally to technical work. – [Lauren Bacon](https://www.laurenbacon.com/women-tech-empathy-work/)
+- Make sure not to hire just women in ‘empathy roles’ and to value empathy work equally to technical work. – [Lauren Bacon](https://www.laurenbacon.com/women-tech-empathy-work/) by
 - Code of conduct: “A code of conduct sets company norms for behavior. These norms are the foundation for diversity and inclusion” – [Project Include - Guide to writing a code of conduct](https://projectinclude.org/writing_cocs)
 - Retention: after hiring people while striving for diversity, you need to continue making your workspace more inclusive, otherwise the you’re not making sustainable progress. – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=986)
 - Be open to criticism and make sure not to react negatively or angrily. – [Diversify Your Workplace. There Are No Excuses](https://transom.org/2015/stephanie-foo/)

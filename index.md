@@ -68,15 +68,15 @@ layout: home
         <h3 class="page-card__subject">Company & education</h3>
         <ul class="page-card__parts">
           <li class="page-card__part">
-            <a class="page-card__link" href="/act/#working-environment">
+            <a class="page-card__link" href="/environment/#working-environment">
               Company culture</a>
           </li>
           <li class="page-card__part">
-            <a class="page-card__link" href="/act/#hiring">
+            <a class="page-card__link" href="/environment/#hiring">
               Hiring</a>
           </li>
           <li class="page-card__part">
-            <a class="page-card__link" href="/act/#design-education">
+            <a class="page-card__link" href="/environment/#design-education">
               Education</a>
           </li>
         </ul>
