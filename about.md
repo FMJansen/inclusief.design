@@ -25,6 +25,7 @@ You can contribute by creating a pull request on [GitHub]({{ site.repository }})
 - [Tycho](https://twitter.com/tychografie) who suggested some of the resources and examples
 - [Dezge](https://twitter.com/Deszie_) who suggested Diversity Talks
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
+- Jana who suggested A Social Designer’s Field Guide to Power Literacy
 
 ## Fonts
 
