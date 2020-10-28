@@ -350,10 +350,38 @@ blockquote {
 /*-------------------------------------*\
   Footer
 \*-------------------------------------*/
-.footer {
-  opacity: .8;
+.contributing {
+  padding: 0 10vw 2vw;
+  text-align: center;
 
+  &__cta {
+    margin: 1em auto;
+  }
+}
+
+.button {
+  background: lighten($text, 15%);
+  border-radius: .2em;
+  color: $background;
+  display: inline-block;
+  line-height: 1;
+  margin: .5em 1.5em;
+  padding: 1.2em;
+  text-decoration: none;
+
+  &:hover {
+    background: $text;
+  }
+
+  &:focus {
+    background: $text;
+    outline-style: auto;
+  }
+}
+
+.footer {
   &__contact {
+    opacity: .8;
     padding: 0 10vw 2vw;
   }
 }
