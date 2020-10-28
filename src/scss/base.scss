@@ -227,29 +227,24 @@ blockquote {
   background: $accent;
 
   &__tagline {
-    font-size: 1.4em;
-    font-weight: bold;
-    line-height: 1.4;
+    font-size: 10vw;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: .5em 0 1.5em;
 
     @media (min-width: $brk--phone) {
-      font-size: 4vw;
+      font-size: 6.8vw;
     }
   }
 
   .logo {
-    font-size: 27vw;
-    margin-top: 20vw;
-
-    @media (min-width: $brk--phone) {
-      font-size: 12em;
-      margin-top: 10vw;
-    }
+    opacity: .7;
   }
 
   &__why {
     background: var(--text);
     color: $text;
-    margin: 7.5vw -10vw 5vw;
+    margin: 0 -10vw 5vw;
     padding: .5vw 10vw 5vw;
   }
 
