@@ -235,7 +235,7 @@ blockquote {
     font-size: 10vw;
     font-weight: normal;
     line-height: 1.2;
-    margin: .9em 10vw;
+    margin: .9em 10vw .65em;
 
     @media (min-width: $brk--phone) {
       font-size: 6.8vw;
@@ -243,7 +243,12 @@ blockquote {
   }
 
   .logo {
+    margin-top: 15vw;
     opacity: .7;
+
+    @media (min-width: $brk--tablet) {
+      margin-top: 10vw;
+    }
   }
 
   &__why {
