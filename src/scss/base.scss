@@ -69,6 +69,10 @@ body {
   line-height: 1.7;
   margin: 0;
   word-wrap: break-word;
+
+  @media (min-width: $brk--tablet) {
+    font-size: 1.15em;
+  }
 }
 
 
@@ -99,7 +103,7 @@ h1 {
 h2 {
   color: var(--accent);
   font-size: 3.5em;
-  margin: 1em 0 .25em;
+  margin: 1em 0 .5em;
   text-transform: uppercase;
 }
 
@@ -216,10 +220,6 @@ blockquote {
   --accent: $text;
   --text: #fff;
   background: $accent;
-
-  @media (min-width: $brk--tablet) {
-    font-size: 1.2em;
-  }
 
   &__tagline {
     font-size: 1.4em;
