@@ -171,6 +171,11 @@ blockquote {
   margin: 7.5vw 10vw .25em;
   text-transform: uppercase;
 
+  &__link {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
   &__page {
     color: var(--text);
   }
