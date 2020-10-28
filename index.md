@@ -2,12 +2,6 @@
 layout: home
 ---
 
-<p class="home__tagline">
-  {{ site.description }}
-</p>
-
-
-
 <section class="home__why">
 
   <h2 id="why">Why?</h2>

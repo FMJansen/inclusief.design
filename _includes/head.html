@@ -49,6 +49,12 @@
       </h1>
     </header>
 
+    {% if page.url == "/" %}
+    <p class="home__tagline">
+      {{ site.description }}
+    </p>
+    {% endif %}
+
     <nav class="menu-cont">
       <ul class="main-menu">
         <li class="main-menu__item">
