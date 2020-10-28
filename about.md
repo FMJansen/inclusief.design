@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & Contributing
+title: About
 permalink: /:basename/
 ---
 
