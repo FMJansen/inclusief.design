@@ -1,8 +1,7 @@
 # Site settings
 title: Inclusief Design
 description: >-
-  Working towards a more inclusive digital/product/academic design scene in The
-  Netherlands.
+  Working towards a more inclusive design scene in The Netherlands.
 baseurl: ""
 url: "https://inclusief.design"
 repository: "https://github.com/fmjansen/inclusief.design"
