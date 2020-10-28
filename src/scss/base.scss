@@ -59,6 +59,7 @@ html {
 
 body {
   --accent: #{$accent};
+  --anchors: #{$anchors};
   --text: #{$text};
   background: $background;
   color: var(--text);
@@ -108,7 +109,7 @@ h3 {
 }
 
 a {
-  color: $anchors;
+  color: var(--anchors, $anchors);
 }
 
 p,
@@ -213,6 +214,7 @@ blockquote {
 
 .home {
   --accent: $text;
+  --anchors: #fff;
   --text: #fff;
   background: $accent;
 
