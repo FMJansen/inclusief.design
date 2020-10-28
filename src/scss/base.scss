@@ -384,7 +384,9 @@ blockquote {
 
 .footer {
   &__contact {
+    max-width: none;
     opacity: .8;
     padding: 0 10vw 2vw;
+    text-align: center;
   }
 }
