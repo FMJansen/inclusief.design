@@ -285,6 +285,7 @@ blockquote {
 }
 
 .page-card {
+  --anchors: #{$anchors};
   background: var(--text);
   border-radius: .75em;
   box-shadow: 0 .2em .5em transparentize($text, .7);
