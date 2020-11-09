@@ -32,7 +32,7 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 
 ## Design education
 
-- When teaching design history, try to stay away from a completely eurocentric curriculum; ask for it as a student; teach it yourself as a professional. – [Sameera Kapila](https://threadreaderapp.com/thread/1267160838911201281.html)
+- When teaching design history, try to stay away from a completely eurocentric curriculum; ask for it as a student; teach it yourself as a professional. – [Sameera Kapila](https://threadreaderapp.com/thread/1267160838911201281.html), [Denise Whitehouse](https://dharn.org.au/the-state-of-design-history-as-a-discipline/)
 - Don’t separate people based on their gender, especially bathrooms. – [Fact Sheet: Transgender & Gender Nonconforming Youth In School](https://srlp.org/resources/fact-sheet-transgender-gender-nonconforming-youth-school/), [Stalled!](https://www.stalled.online/)
 
 ## More resources
