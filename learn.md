@@ -4,6 +4,14 @@ title: Learn
 permalink: /:basename/
 ---
 
+<nav class="toc">
+[On this page](#open)
+{: .open ontouchstart=""}
+
+* TOC
+{:toc}
+</nav>
+
 <main class="page" id="site-content">
 
 When trying to make your design process, products and people more inclusive, there are many topics to consider. Diversity in your team can help make more accessible products, for example, which can counter systemic racism, ableism, sexism, ageism, etc. This page tries to cover as many topics as possible to learn and think about, plus preferrably to act and improve on as a designer/team.
