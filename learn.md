@@ -4,6 +4,8 @@ title: Learn
 permalink: /:basename/
 ---
 
+<main class="page" id="site-content">
+
 When trying to make your design process, products and people more inclusive, there are many topics to consider. Diversity in your team can help make more accessible products, for example, which can counter systemic racism, ableism, sexism, ageism, etc. This page tries to cover as many topics as possible to learn and think about, plus preferrably to act and improve on as a designer/team.
 
 ## Design
@@ -42,3 +44,5 @@ As those biases exist in people, they are likely to transfer to the datasets and
 - [NL] The Dutch podcast Brutale Klimaatvragen has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
 - [Alonzo Felix](https://twitter.com/alonzofelix) compiled an [anti-racism guide](https://www.notion.so/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
 - [Diversity, Equity, and Inclusion](https://www.aiga.org/diversity-equity-inclusion) and [Diversity & Inclusion: learning basics](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/) – AIGA
+
+</main>

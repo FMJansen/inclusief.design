@@ -4,6 +4,8 @@ title: Environment
 permalink: /:basename/
 ---
 
+<main class="page" id="site-content">
+
 ## Everywhere
 
 Listening: in making your surroundings more inclusive, make sure you do what designers should be able to best: listen to what people have to say and what they need in order to feel comfortable and enabled.
@@ -67,3 +69,5 @@ Listening: in making your surroundings more inclusive, make sure you do what des
 - [A Seat At The Table](https://aseat.org/) was (an exhibition about) a survey by [Equality in Design](https://equalityindesign.tumblr.com/), a student group at the Yale School of Architecture.
 - [NL] [Diversity Talks](https://diversitytalks.nl) is a Amsterdam based organisation focussed on improving diversity en inclusion in society, fair higher education and equal opportunity in the road towards it.
 - [NL] [Studio i](https://studio-inclusie.nl) is a platform for inclusivity in the Dutch cultural sector.
+
+</main>

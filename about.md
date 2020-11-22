@@ -4,6 +4,8 @@ title: About
 permalink: /:basename/
 ---
 
+<main class="page" id="site-content">
+
 ## Why
 
 The Dutch design field isn’t an accurate representation of our society, but it should be. To make sure everyone has a chance to design the world around us. It can help to look at diversity, anti-racism and inclusion in the field of design. On a personal, organisational and societal level, we can learn a lot as white designers. To make us more aware, reading and listening to the people of colour we do have is important, but it can be hard to find relevant resources.
@@ -30,3 +32,5 @@ You can contribute by creating a pull request on [GitHub]({{ site.repository }})
 ## Fonts
 
 [Martin](https://www.vocaltype.co/history-of/martin) by [Vocal Type Co.](https://www.vocaltype.co/story-of) for the headings and [Lora](https://fonts.google.com/specimen/Lora?category=Serif&preview.size=18&preview.text_type=paragraph) by [Cyreal](http://www.cyreal.org/) for the body text.
+
+</main>

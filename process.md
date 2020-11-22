@@ -4,6 +4,8 @@ title: Process & products
 permalink: /:basename/
 ---
 
+<main class="page" id="site-content">
+
 ## Power & process
 - Remember you’re always excluding people (from usability tests, interviews, co-design workshops, etc.), so you can be conscious about who you are excluding and ask ‘Who are we missing?’. – [Kat Holmes](https://katholmesdesign.com/) in [Mismatch](https://mismatch.design/), [Tatiana Mac](https://areena.yle.fi/1-50271945), [Benjamin Evans](https://twitter.com/benjamineevans)
 - Also consider the power relations in the social/service/system design process, by looking at your own privileges and who gets to be present, decide the design goal, decide what is ‘normal’ in the group, and what role different stakeholders have. – [Maya Goodwill](https://www.power-literacy.com/about) in her [A Social Designer’s Field Guide to Power Literacy](https://www.power-literacy.com)
@@ -63,3 +65,5 @@ _TODO: bias in algorithms_
 - [The Hair Chart](https://99percentinvisible.org/episode/the-hair-chart/) is an episode of 99% Invisible in collaboration with [The Stoop](https://www.thestoop.org/), “a podcast hosted by Leila Day and Hana Baba, which features stories from across the black diaspora.” It handles the history behind criticism of a hair chart. They also have [an episode on that themselves](https://www.thestoop.org/home/2018/4/20/episode-13-are-you-a-4c).
 - [WePresent](https://wepresent.wetransfer.com) showcases work from creatives, including ([graphic](https://wepresent.wetransfer.com/category/graphic-design/)) [design](https://wepresent.wetransfer.com/category/design/), saying “Diversity is at the center of what we do.” (and following up on that in their selection).
 - [Design Indaba](http://www.designindaba.com/) highlights African and global design/creativity. They also have a [database of African and international creatives](http://www.designindaba.com/profiles).
+
+</main>

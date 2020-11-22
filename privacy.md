@@ -3,6 +3,8 @@ layout: default
 title: Privacy policy
 ---
 
+<main class="page" id="site-content">
+
 ## Who am I?
 The website is made and hosted by [Floris Jansen](https://fmjansen.com)
 
@@ -20,3 +22,5 @@ If you’ve contacted me, you can request an overview of the data I possess of y
 
 ## Contact
 You can always send me an email on privacy@fmjansen.nl with any further questions.
+
+</main>
