@@ -14,6 +14,9 @@ permalink: /:basename/
 
 <main class="page" id="site-content">
 
+<img src="/static/img/personal.svg" alt="An illustration of a book, plant and person in front of a red blob.">
+
+## Intro
 When trying to make your design process, products and people more inclusive, there are many topics to consider. Diversity in your team can help make more accessible products, for example, which can counter systemic racism, ableism, sexism, ageism, etc. This page tries to cover as many topics as possible to learn and think about, plus preferrably to act and improve on as a designer/team.
 
 ## Design

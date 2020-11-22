@@ -30,6 +30,7 @@ We want to help Dutch designers find out what they can do. So, this is a collect
     <div class="content-overview__container">
 
       <article class="page-card">
+        <img src="/static/img/personal.svg" alt="An illustration of a book, plant and person in front of a red blob.">
         <p class="page-card__level">Personal</p>
         <h3 class="page-card__subject">Awareness</h3>
         <ul class="page-card__parts">
@@ -41,6 +42,7 @@ We want to help Dutch designers find out what they can do. So, this is a collect
       </article>
 
       <article class="page-card">
+        <img src="/static/img/environment.svg" alt="An illustration of a chair, laptop and graduation hat in front of a red blob.">
         <p class="page-card__level">Environment</p>
         <h3 class="page-card__subject">Company & education</h3>
         <ul class="page-card__parts">
@@ -60,6 +62,7 @@ We want to help Dutch designers find out what they can do. So, this is a collect
       </article>
 
       <article class="page-card">
+        <img src="/static/img/society.svg" alt="An illustration of a globe, messaging app icon and toaster in front of a red blob.">
         <p class="page-card__level">Society</p>
         <h3 class="page-card__subject">Process & products</h3>
         <ul class="page-card__parts">

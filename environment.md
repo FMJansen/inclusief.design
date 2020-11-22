@@ -14,6 +14,8 @@ permalink: /:basename/
 
 <main class="page" id="site-content">
 
+<img src="/static/img/environment.svg" alt="An illustration of a chair, laptop and graduation hat in front of a red blob.">
+
 ## Everywhere
 
 Listening: in making your surroundings more inclusive, make sure you do what designers should be able to best: listen to what people have to say and what they need in order to feel comfortable and enabled.
