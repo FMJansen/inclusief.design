@@ -25,7 +25,7 @@ _* Providing statistics in the Dutch context would be great. Sadly, we don’t h
 
 ## What can we do?
 
-We want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. On several levels.
+We want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. On several levels. And hopefully, more inclusive designers lead to more diverse and inclusive design agencies/departments, which lead to more just and inclusive design processes & products—and maybe even a more just society.
 
   <div class="content-overview__scroll" markdown="0">
     <div class="content-overview__container">
