@@ -77,4 +77,9 @@ _TODO: bias in algorithms_
 - [Design Indaba](http://www.designindaba.com/) highlights African and global design/creativity. They also have a [database of African and international creatives](http://www.designindaba.com/profiles).
 - [Maru](https://maruchatbot.co/) is an anti-harassment chatbot by [Feminist Internet](https://feministinternet.com/) and [Plan International](https://plan-international.org/), focussed on providing advice & resources from global experts & activists on how to tackle online abuse
 
+
+[Back to **Personal**](/learn/){: .next-page-link}
+{: .next-page}
+
+
 </main>

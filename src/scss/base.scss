@@ -499,6 +499,45 @@ img {
   opacity: .8;
 }
 
+.next-page {
+  max-width: 100%;
+}
+
+.next-page-link {
+  background: var(--accent);
+  border-radius: .5em;
+  color: $background;
+  display: block;
+  line-height: 1.2;
+  margin-top: 10vw;
+  padding: unquote('min(7vw, 4em)');
+  position: relative;
+  text-decoration: none;
+  z-index: 3;
+
+  strong {
+    display: block;
+    font-size: unquote('min(6vw, 3em)');
+
+    &::after {
+      content: "→";
+      float: right;
+    }
+  }
+
+  &:hover {
+    strong {
+      text-decoration: underline;
+    }
+  }
+
+  &::after {
+    content: "";
+    clear: both;
+    display: block;
+  }
+}
+
 
 
 

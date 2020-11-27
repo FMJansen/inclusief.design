@@ -79,6 +79,11 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 - [NL] [Diversity Talks](https://diversitytalks.nl) is a Amsterdam based organisation focussed on improving diversity en inclusion in society, fair higher education and equal opportunity in the road towards it.
 - [NL] [Studio i](https://studio-inclusie.nl) is a platform for inclusivity in the Dutch cultural sector.
 
+
+[Read on about **Process & Products**](/process/){: .next-page-link}
+{: .next-page}
+
+
 [^1]: BNO has [mentoring](https://www.bno.nl/page/bno-mentoring) and [coaching](https://www.bno.nl/page/bno-coaching) programs, but it’s only for members and a one-time thing or paid.
 
 </main>

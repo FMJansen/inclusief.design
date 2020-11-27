@@ -57,4 +57,7 @@ As those biases exist in people, they are likely to transfer to products in gene
 - [NL] [Wit Huiswerk](https://www.withuiswerk.nl/) is a collection of general resources for people who want to be active in the fight against racism.
 - [NL] The Dutch podcast [Brutale Klimaatvragen](https://open.spotify.com/show/1FpEa2Dra62DY0TQYAKAGI?si=FadaH1JlSzKMsq_ZCnmq1Q) has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
 
+[Read on about **Environment**](/environment/){: .next-page-link}
+{: .next-page}
+
 </main>
