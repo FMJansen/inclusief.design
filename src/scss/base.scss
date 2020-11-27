@@ -365,8 +365,8 @@ img {
 }
 
 .home {
-  --accent: $text;
-  --text: #fff;
+  --accent: #{$background};
+  --text: #{$background};
   background: $accent;
 
   &__tagline {
@@ -435,11 +435,15 @@ img {
   }
 }
 
-.page-card {
-  background: var(--text);
+.card {
+  background: $background;
   border-radius: .75em;
   box-shadow: 0 .2em .5em transparentize($text, .7);
   color: $text;
+}
+
+.page-card {
+  @extend .card;
   flex-grow: 1;
   flex-shrink: 0;
   margin: 1em 1em 1em 0;
@@ -562,15 +566,40 @@ img {
   }
 }
 
+.updates {
+  @extend .card;
+  --anchors: #{$anchors};
+  --accent: #{$accent};
+  box-sizing: border-box;
+  margin: 6vw auto 2vw;
+  padding: .1vw 7.5vw 4vw;
+
+  &__label {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: -1em;
+  }
+}
+
 .button {
   background: lighten($text, 15%);
+  border: 0;
   border-radius: .2em;
   color: $background;
   display: inline-block;
+  font-family: $font;
+  font-size: 1em;
   line-height: 1;
   margin: .5em 1.5em;
   padding: 1.2em;
   text-decoration: none;
+
+  &--alternative {
+    font-weight: bold;
+    margin: .5em 0;
+    max-width: 16rem;
+    width: 100%;
+  }
 
   &:hover {
     background: $text;
@@ -582,11 +611,22 @@ img {
   }
 }
 
+.text-input {
+  border: 1px solid #ccc;
+  border-radius: .2em;
+  box-sizing: border-box;
+  font-family: $font;
+  font-size: 1em;
+  max-width: 16rem;
+  padding: 1em 1.25em;
+  width: 100%;
+}
+
 .footer {
   &__contact {
     max-width: none;
     opacity: .8;
-    padding: 0 10vw 2vw;
+    padding: 2vw 10vw;
     text-align: center;
   }
 }

@@ -42,4 +42,6 @@ This website/project was set up by [Floris](https://fmjansen.com), but the ideas
 
 [Martin](https://www.vocaltype.co/history-of/martin) by [Vocal Type Co.](https://www.vocaltype.co/story-of) for the headings and [Lora](https://fonts.google.com/specimen/Lora?category=Serif&preview.size=18&preview.text_type=paragraph) by [Cyreal](http://www.cyreal.org/) for the body text.
 
+{% include updates.html %}
+
 </main>

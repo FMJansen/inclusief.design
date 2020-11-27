@@ -89,3 +89,10 @@ I want to help Dutch designers find out what they can do. So, this is a collecti
 - Collecting statistics on the make-up of the Dutch design community
 - Possibly featuring the stories of people who are underrepresented
 - Adding a Dutch translation
+
+
+
+
+
+
+{% include updates.html %}
