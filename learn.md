@@ -54,6 +54,7 @@ As those biases exist in people, they are likely to transfer to products in gene
 ## More resources
 - [Alonzo Felix](https://twitter.com/alonzofelix) compiled an [anti-racism guide](https://www.notion.so/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
 - [Diversity, Equity, and Inclusion](https://www.aiga.org/diversity-equity-inclusion) and [Diversity & Inclusion: learning basics](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/) – AIGA
+- [NL] [Wit Huiswerk](https://www.withuiswerk.nl/) is a collection of general resources for people who want to be active in the fight against racism.
 - [NL] The Dutch podcast [Brutale Klimaatvragen](https://open.spotify.com/show/1FpEa2Dra62DY0TQYAKAGI?si=FadaH1JlSzKMsq_ZCnmq1Q) has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).
 
 </main>
