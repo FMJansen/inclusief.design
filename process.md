@@ -75,5 +75,6 @@ _TODO: bias in algorithms_
 - [The Hair Chart](https://99percentinvisible.org/episode/the-hair-chart/) is an episode of 99% Invisible in collaboration with [The Stoop](https://www.thestoop.org/), “a podcast hosted by Leila Day and Hana Baba, which features stories from across the black diaspora.” It handles the history behind criticism of a hair chart. They also have [an episode on that themselves](https://www.thestoop.org/home/2018/4/20/episode-13-are-you-a-4c).
 - [WePresent](https://wepresent.wetransfer.com) showcases work from creatives, including ([graphic](https://wepresent.wetransfer.com/category/graphic-design/)) [design](https://wepresent.wetransfer.com/category/design/), saying “Diversity is at the center of what we do.” (and following up on that in their selection).
 - [Design Indaba](http://www.designindaba.com/) highlights African and global design/creativity. They also have a [database of African and international creatives](http://www.designindaba.com/profiles).
+- [Maru](https://maruchatbot.co/) is an anti-harassment chatbot by [Feminist Internet](https://feministinternet.com/) and [Plan International](https://plan-international.org/), focussed on providing advice & resources from global experts & activists on how to tackle online abuse
 
 </main>
