@@ -6,7 +6,7 @@ layout: home
 
 ## Why?
 
-The Dutch design field isn’t an accurate representation of our society*, but it should be. To make sure everyone has a chance to design and access the world around us.
+The Dutch design field isn’t an accurate representation of our society*, but it should be. To make sure everyone has a chance to design _and_ access the world around us.
 Also, there are benefits to making sure your company and products are inclusive:
 - Diversity makes recruitment easier, because it’s valued by people who are looking for a job. – [Kim Abreu at Glassdoor](https://www.entrepreneur.com/article/240550)
 - It also makes recruitment easier because you’re looking at a larger group of candidates. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1241)
@@ -15,7 +15,7 @@ Also, there are benefits to making sure your company and products are inclusive:
 - More inclusive design solutions work for a broader range of people (which might also mean more users and higher profits). – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1207)
 - Solutions for the specific needs of a small group of people might be improvements for many; think of curb cuts and closed captions. – Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/)
 
-_* Providing statistics in the Dutch context would be great. Sadly, we don’t have them. [Let me know if you can help](/about/#contributing)._
+_* Providing statistics in the Dutch context would be great. Sadly, I don’t have them. [Let me know if you can help](/about/#contributing)._
 
 </section>
 
@@ -25,7 +25,7 @@ _* Providing statistics in the Dutch context would be great. Sadly, we don’t h
 
 ## What can we do?
 
-We want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want. And hopefully, more inclusive designers lead to more diverse and inclusive design agencies/departments, which lead to more just and inclusive design processes & products—and maybe even a more just society.
+I want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want. And hopefully, more inclusive designers lead to more diverse and inclusive design agencies/departments, which lead to more just and inclusive design processes & products—and maybe even a more just society.
 
   <div class="content-overview__scroll" markdown="0">
     <div class="content-overview__container">
