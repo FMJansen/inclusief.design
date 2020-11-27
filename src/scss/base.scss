@@ -493,6 +493,12 @@ img {
   }
 }
 
+.footnotes {
+  @extend .page;
+  font-size: 1rem;
+  opacity: .8;
+}
+
 
 
 
