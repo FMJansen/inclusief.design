@@ -20,6 +20,9 @@ Well, kind of forever; I probably won’t actively delete your data, unless you 
 ## Your rights concerning your data
 If you’ve contacted me, you can request an overview of the data I possess of you. You could also ask me to delete any of your data in my possession, except the kind which we are required to store because of administrative, legal or security purposes.
 
+## Cookies & tracking
+While I use self-hosted Matomo for analytics, I’m not using tracking cookies and your IP address is anonimized. This way, I get to see what pages work well and if I missed any devices/browsers/etc. in my assumptions—but you stay anonymous.
+
 ## Contact
 You can always send me an email on privacy@fmjansen.nl with any further questions.
 
