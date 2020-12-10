@@ -23,7 +23,7 @@ When trying to make your design process, products and people more inclusive, the
 Designers love debating about what design is, but for this website it might be defined as creating products, services, systems and spaces with a certain intent. It’s especially approached from the academic and industrial design point of view, with a human centred approach.
 
 ## Racism, equity, intersection&shy;ality, etc.
-The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be an ally](https://www.theconsciouskid.org/how-to-be-an-ally), which might be good to work on personally.
+The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be a co-conspirator](https://www.theconsciouskid.org/how-to-be-a-coconspirator), which might be good to work on personally.
 
 ## Inclusivity
 The [toolkit for Inclusie](https://inclusie.gebruikercentraal.nl/) describes ‘inclusion’ as:
