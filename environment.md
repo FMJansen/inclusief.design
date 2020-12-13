@@ -4,9 +4,9 @@ title: Environment
 permalink: /:basename/
 ---
 
-<nav class="toc">
+<nav class="toc js-toc">
 [On this page](#open)
-{: .open ontouchstart=""}
+{: .open.js-open-toc }
 
 * TOC
 {:toc}

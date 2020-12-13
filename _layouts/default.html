@@ -2,4 +2,16 @@
 
 {{ content }}
 
+<script type="text/javascript">
+  let toc = document.querySelector('.js-toc'),
+    tocAnchorList = toc.querySelectorAll('li a');
+  function toggleToc() {
+    toc.classList.toggle('opened');
+  }
+  document.querySelector('.js-open-toc').addEventListener('click', toggleToc);
+  for (var i = 0; i < tocAnchorList.length; i++) {
+      tocAnchorList[i].addEventListener('click', toggleToc);
+  }
+</script>
+
 {% include foot.html %}

@@ -281,23 +281,14 @@ img {
     margin: 1em auto;
   }
 
-  .close {
-    display: none;
-  }
-
-  &:focus-within {
+  &.opened {
     #markdown-toc {
       height: 100%;
       margin: 1em 0;
     }
-  }
 
-  @media (hover: none) {
-    &:hover {
-      #markdown-toc {
-        height: 100%;
-        margin: 1em 0;
-      }
+    p::before {
+      content: "Close ";
     }
   }
 
@@ -329,6 +320,12 @@ img {
 
     p {
       text-align: right;
+    }
+
+    &.opened {
+      p::before {
+        content: "";
+      }
     }
   }
 }
