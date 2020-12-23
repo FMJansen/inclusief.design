@@ -13,7 +13,7 @@ Also, there are benefits to making sure your company and products are inclusive:
 - A diverse team improves creativity and diligence. – [Katherine W. Phillips at Scientific American](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
 - It’s also linked to higher financial returns. – [McKinsey](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
 - More inclusive design solutions work for a broader range of people (which might also mean more users and higher profits). – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1207)
-- Solutions for the specific needs of a small group of people might be improvements for many; think of curb cuts and closed captions. – Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/)
+- Solutions for the specific needs of a small group of people might be improvements for many; think of curb cuts and closed captions. – Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/), [Disability Science Review](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785)
 
 _* Providing statistics in the Dutch context would be great. Sadly, I don’t have them. [Let me know if you can help](/about/#contributing)._
 
