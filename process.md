@@ -52,6 +52,7 @@ _TODO: bias in algorithms_
   - You can check out his work [on his website](https://senongo.net/) and the agency he works at, [Constructive](https://constructive.co/), who do “social impact brand strategy & experience design”
 - AIGA’s webcast has an [episode called Design Justice Practice: Spreading Power](https://www.aiga.org/aiga/content/why-design/design-for-good/design-for-good-webcast-series-episode-five/)
 - [Invisible Women](https://99percentinvisible.org/episode/invisible-women/) is an episode of 99% Invisible, discussing the lack of data on the female population, resulting in more injuries and deaths, worse healthcare, low adoption rates for new products, among other things.
+- [NL] [Chihiro Geuzebroek](https://www.lilithmag.nl/blog?author=5e63936047d5f50a1eb1e0d8) wrote an article at Lilith [about climate racism](https://www.lilithmag.nl/blog/2020/3/7/klimaatracisme-dit-moet-je-weten), this might be good to keep in mind while designing for sustainability
 
 ### AI/ML/Algorithms
 - [Race After Technology](https://www.ruhabenjamin.com/race-after-technology) is a book about social inequity in, or as a cause of, technology, by Ruha Benjamin, an Associate Professor of African American Studies at Princeton University.
