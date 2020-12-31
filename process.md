@@ -35,7 +35,8 @@ permalink: /:basename/
 - When something ends up being exclusionary despite your best efforts, apologize properly, by 1. not centring yourself, 2. apologising for the impact, 3. making a plan to fix, 4. remember it for next time and 5. pay the knowledge forward. – [Tatiana Mac](https://areena.yle.fi/1-50271945)
 - Try to collect as little data as possible, for both privacy reasons and to prevent excluding people in the way you collect or act upon this data. – [Tatiana Mac](https://areena.yle.fi/1-50271945)
 
-_TODO: bias in algorithms_
+## Algorithms
+- Beware that human biases can transfer into the data sets and algorithms when using machine learning. So, fight the notion that machines are objective and make sure the creators of the data sets and algorithms you implement/hire are working inclusively, too. – [Dr. Safiya Umoja Noble](https://safiyaunoble.com/) in [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/); [Sennay Ghebreab at Wetenschapsagenda, NL](https://www.instagram.com/p/CIOeMtVlkjS/)
 
 ## More resources
 
