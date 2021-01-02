@@ -37,6 +37,7 @@ This website/project was set up by [Floris](https://fmjansen.com), but the ideas
 - [Dezge](https://twitter.com/Deszie_) who suggested Diversity Talks
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
 - Jana who suggested A Social Designer’s Field Guide to Power Literacy
+- [Tirza](https://www.linkedin.com/in/tirza-izelaar-4a4571113/) who suggested the talk by Sennay Ghebreab at Wetenschapsagenda
 
 ## Fonts
 
