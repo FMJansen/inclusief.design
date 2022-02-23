@@ -107,6 +107,11 @@ body {
   }
 }
 
+*:focus {
+  outline: 4px solid var(--anchors, $anchors);
+  outline-offset: 8px;
+}
+
 
 
 
@@ -242,7 +247,8 @@ img {
   &__link {
     color: inherit;
     font-weight: normal;
-    padding: 0 1em;
+    margin: 0 1em;
+    padding: 0;
     text-decoration-color: var(--accent);
 
     &--active {
@@ -363,6 +369,7 @@ img {
 .home {
   --accent: #{$background};
   --text: #{$background};
+  --anchors: #fff;
   background: $accent;
 
   &__tagline {
@@ -387,6 +394,7 @@ img {
 
   &__why {
     --accent: #{$accent};
+    --anchors: #{$anchors};
     background: var(--text);
     color: $text;
     margin: 0 -10vw 5vw;
