@@ -441,6 +441,7 @@ img {
 }
 
 .card {
+  --anchors: #{$anchors};
   background: $background;
   border-radius: .75em;
   box-shadow: 0 .2em .5em transparentize($text, .7);
