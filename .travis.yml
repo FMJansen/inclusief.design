@@ -9,7 +9,6 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_db2095f63ba3_key -iv $encrypted_db2095f63ba3_iv
   -in deploy_rsa.enc -out deploy_rsa -d
 - npm install -g gulp-cli
-- npm install node-sass@4.12.0
 - npm install
 install:
 - gem install jekyll
