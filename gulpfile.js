@@ -10,7 +10,7 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 
 var plumber = require('gulp-plumber');
-var sass = require('gulp-sass');
+var sass = require('gulp-sass')(require('sass'));
 var sourcemaps = require('gulp-sourcemaps');
 var prefix = require('gulp-autoprefixer');
 

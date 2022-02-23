@@ -16,7 +16,8 @@
     "gulp-sass": "*",
     "gulp-sourcemaps": "*",
     "gulp-uglify": "*",
-    "gulp-webp": "*"
+    "gulp-webp": "*",
+    "sass": "^1.49.8"
   },
   "browserslist": {
     "production": [
