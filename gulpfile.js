@@ -14,7 +14,6 @@ var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var prefix = require('gulp-autoprefixer');
 
-var imagemin = require('gulp-imagemin');
 var cache = require('gulp-cache');
 
 var clone = require('gulp-clone');
