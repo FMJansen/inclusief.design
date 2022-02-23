@@ -36,7 +36,7 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 - Donate to (local) initiatives that strive for diversity and inclusion, like communities for underrepresented groups, diverse meet-ups, etc. and buy products/services from companies that share your inclusive values.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1689)
 - Try mentoring: To get more people from underrepresented groups into the field of design, you could think about mentoring students from local high schools[^1]. “There are talented students that love to draw, love to design, but they may not know how do I turn this from a hobby (...) into a career” – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=948)
 - When organising an event, like a conference or meet-up, try to make sure you have a diverse group of speakers, among other things. You could use [Ashe Drydens list](https://www.ashedryden.com/blog/increasing-diversity-at-your-conference) to help get started with that. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1013)
-- Getting insight into the cultural diversity is possible to a certain extent within the boundaries of GDPR by having employees voluntarily record the country of origin of them, their parents and their grandparents. – [pwc/Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/gelijke-behandeling-op-het-werk/culturele-diversiteit-werkvloer)
+- Getting insight into the cultural diversity is possible to a certain extent within the boundaries of GDPR by having employees voluntarily record the countries of origin of them and their (grand)parents. – [pwc/Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/gelijke-behandeling-op-het-werk/culturele-diversiteit-werkvloer)
 
 ## Hiring
 
