@@ -308,7 +308,8 @@ img {
     top: 5vh;
     width: auto;
 
-    &:hover {
+    &:hover,
+    &:focus-within {
       opacity: 1;
     }
 
@@ -490,7 +491,8 @@ img {
     padding: 1em .5em;
     text-decoration: none;
 
-    &[href^='/']:hover {
+    &[href^='/']:hover,
+    &[href^='/']:focus {
       background: transparentize($text, .9);
     }
 
@@ -533,7 +535,8 @@ img {
     }
   }
 
-  &:hover {
+  &:hover,
+  &:focus {
     strong {
       text-decoration: underline;
     }
@@ -603,13 +606,9 @@ img {
     width: 100%;
   }
 
-  &:hover {
-    background: $text;
-  }
-
+  &:hover,
   &:focus {
-    background: $text;
-    outline-style: auto;
+    background: #000;
   }
 }
 
