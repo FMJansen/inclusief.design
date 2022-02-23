@@ -407,7 +407,7 @@ img {
 .content-overview {
   &__scroll {
     margin: 0 -10vw;
-    overflow-x: scroll;
+    overflow-x: auto;
   }
 
   &__container {
