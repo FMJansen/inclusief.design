@@ -386,6 +386,7 @@ img {
   }
 
   &__why {
+    --accent: #{$accent};
     background: var(--text);
     color: $text;
     margin: 0 -10vw 5vw;
