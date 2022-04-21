@@ -5,7 +5,7 @@ permalink: /:basename/
 ---
 
 <nav class="toc js-toc">
-[On this page](#open)
+[<span>close</span> on this page](#open)
 {: .open.js-open-toc }
 
 * TOC

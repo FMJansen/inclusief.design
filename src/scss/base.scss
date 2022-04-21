@@ -280,6 +280,11 @@ img {
   p {
     text-align: center;
     margin: 1em auto;
+
+    span {
+      display: none;
+      font-style: italic;
+    }
   }
 
   &.opened {
@@ -288,8 +293,8 @@ img {
       margin: 1em 0;
     }
 
-    p::before {
-      content: "Close ";
+    span {
+      display: inline;
     }
   }
 
@@ -325,8 +330,8 @@ img {
     }
 
     &.opened {
-      p::before {
-        content: "";
+      span {
+        display: none;
       }
     }
   }
