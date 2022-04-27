@@ -52,5 +52,5 @@ jobs:
         key: ${{ secrets.SSH2 }}
         passphrase: ${{ secrets.PASSPHRASE }}
         port: ${{ secrets.PORT }}
-        source: "./site"
+        source: "./_site"
         target: "${{ secrets.REMOTE_DIR_MAIN }}test/"
