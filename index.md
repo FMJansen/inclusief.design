@@ -31,7 +31,7 @@ I want to help Dutch designers find out what they can do. So, this is a collecti
     <div class="content-overview__container">
 
       <article class="page-card">
-        <img src="/static/img/personal.svg" alt="An illustration of a book, plant and person in front of a red blob.">
+        <img src="/static/img/personal.svg" alt="">
         <p class="page-card__level">Personal</p>
         <h3 class="page-card__subject">Awareness</h3>
         <ul class="page-card__parts">
@@ -43,7 +43,7 @@ I want to help Dutch designers find out what they can do. So, this is a collecti
       </article>
 
       <article class="page-card">
-        <img src="/static/img/environment.svg" alt="An illustration of a chair, laptop and graduation hat in front of a red blob.">
+        <img src="/static/img/environment.svg" alt="">
         <p class="page-card__level">Environment</p>
         <h3 class="page-card__subject">Company & education</h3>
         <ul class="page-card__parts">
@@ -63,7 +63,7 @@ I want to help Dutch designers find out what they can do. So, this is a collecti
       </article>
 
       <article class="page-card">
-        <img src="/static/img/society.svg" alt="An illustration of a globe, messaging app icon and toaster in front of a red blob.">
+        <img src="/static/img/society.svg" alt="">
         <p class="page-card__level">Society</p>
         <h3 class="page-card__subject">Process & products</h3>
         <ul class="page-card__parts">
