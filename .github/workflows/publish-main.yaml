@@ -53,4 +53,5 @@ jobs:
         passphrase: ${{ secrets.PASSPHRASE }}
         port: ${{ secrets.PORT }}
         source: "./_site"
+        strip_components: 1
         target: "${{ secrets.REMOTE_DIR_MAIN }}test/"
