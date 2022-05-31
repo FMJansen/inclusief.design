@@ -69,6 +69,7 @@ $background: #fff;
 $text: #000;
 $accent: #b01711;
 $anchors: #1c29a8;
+$anchors--visited: #9816a4;
 
 // Breakpoints
 $brk--phone: 768px;
@@ -92,6 +93,7 @@ html {
 body {
   --accent: #{$accent};
   --anchors: #{$anchors};
+  --anchors--visited: #{$anchors--visited};
   --text: #{$text};
   background: $background;
   color: var(--text);
@@ -152,6 +154,10 @@ h3 {
 
 a {
   color: var(--anchors);
+
+  &:visited {
+    color: var(--anchors--visited);
+  }
 }
 
 p,
@@ -222,6 +228,10 @@ img {
   &__link {
     color: var(--accent);
     text-decoration: none;
+
+    &__link:visited {
+      color: var(--accent);
+    }
   }
 
   &__page {
@@ -255,6 +265,10 @@ img {
 
     &--active {
       font-weight: bold;
+    }
+
+    &:visited {
+      color: inherit;
     }
   }
 }
@@ -374,6 +388,7 @@ img {
   --accent: #{$background};
   --text: #{$background};
   --anchors: #fff;
+  --anchors--visited: #fff;
   background: $accent;
 
   &__tagline {
@@ -399,6 +414,7 @@ img {
   &__why {
     --accent: #{$accent};
     --anchors: #{$anchors};
+    --anchors--visited: #{$anchors--visited};
     background: var(--text);
     color: $text;
     margin: 0 -10vw 5vw;
@@ -446,6 +462,7 @@ img {
 
 .card {
   --anchors: #{$anchors};
+  --anchors--visited: #{$anchors--visited};
   background: $background;
   border-radius: .75em;
   box-shadow: 0 .2em .5em transparentize($text, .7);
@@ -547,6 +564,10 @@ img {
     strong {
       text-decoration: underline;
     }
+  }
+
+  &:visited {
+    color: $background;
   }
 
   &::after {
