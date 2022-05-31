@@ -68,7 +68,9 @@ $font--heading: 'Martin', sans-serif;
 $background: #fff;
 $text: #000;
 $accent: #b01711;
+$accent--light: lighten($accent, 20%);
 $anchors: #1c29a8;
+$anchors--light: lighten($anchors, 40%);
 
 // Breakpoints
 $brk--phone: 768px;
@@ -92,8 +94,9 @@ html {
 body {
   --accent: #{$accent};
   --anchors: #{$anchors};
+  --background: #{$background};
   --text: #{$text};
-  background: $background;
+  background: var(--background);
   color: var(--text);
   font-family: $font;
   font-size: 15px;
@@ -104,6 +107,13 @@ body {
 
   @media (min-width: $brk--tablet) {
     font-size: 1.15em;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    --accent: #{$accent--light};
+    --anchors: #{$anchors--light};
+    --background: #{$text};
+    --text: #ddd;
   }
 }
 
@@ -397,10 +407,10 @@ img {
   }
 
   &__why {
-    --accent: #{$accent};
-    --anchors: #{$anchors};
-    background: var(--text);
-    color: $text;
+    --accent: #{$accent--light};
+    --anchors: #{$anchors--light};
+    background: var(--background);
+    color: var(--text);
     margin: 0 -10vw 5vw;
     padding: .5vw 10vw 5vw;
   }
