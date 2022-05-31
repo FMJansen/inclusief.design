@@ -108,7 +108,7 @@ body {
 }
 
 *:focus {
-  outline: 4px solid var(--anchors, $anchors);
+  outline: 4px solid var(--anchors);
   outline-offset: 8px;
 }
 
@@ -151,7 +151,7 @@ h3 {
 }
 
 a {
-  color: var(--anchors, $anchors);
+  color: var(--anchors);
 }
 
 p,
