@@ -51,6 +51,16 @@ Bias is defined by [The Conscious Kid](https://www.theconsciouskid.org/) as
 
 As those biases exist in people, they are likely to transfer to products in general, but especially the datasets and algorithms used in those products.
 
+## Decolonisation
+Design history, values and work in the West,
+- are built upon the colonization of other nations, 
+- exist within a system of privilege and oppression,
+- and have partly been appropriated or stolen.
+
+Decolonisation is then a process about realising design history and experience are not universal, about not [(mis)appropriating](#cultural-misappropriation) design elements, and about creating space for designers outside of the Western norm, among other things. – Summarised from [What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/) 
+
+However, this concept is still understood differently among people. [Anoushka Khandwala](https://anoushkakhandwala.com/about) expanded on her article mentioned above in [“Decolonizing Means Many Things to Many People”—Four Practitioners Discuss Decolonizing Design](https://eyeondesign.aiga.org/decolonizing-means-many-things-to-many-people-four-practitioners-discuss-decolonizing-design). There is also a really extensive [decolonizing design reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit), started by [Ramon Tejada](https://ramongd.net/)
+
 ## More resources
 - [Alonzo Felix](https://twitter.com/alonzofelix) compiled an [anti-racism guide](https://www.notion.so/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
 - [Diversity, Equity, and Inclusion](https://www.aiga.org/diversity-equity-inclusion) and [Diversity & Inclusion: learning basics](https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/diversity-inclusion-learning-basics/) – AIGA
