@@ -65,11 +65,12 @@
 
 $font: 'Lora', serif;
 $font--heading: 'Martin', sans-serif;
-$background: #fff;
-$text: #000;
-$accent: #b01711;
-$anchors: #1c29a8;
-$anchors--visited: #9816a4;
+$background: 255, 255, 255;
+$border-color: 200, 200, 200;
+$text: 0, 0, 0;
+$accent: 176, 23, 17;
+$anchors: 28, 41, 168;
+$anchors--visited: 152, 22, 164;
 
 // Breakpoints
 $brk--phone: 768px;
@@ -94,9 +95,11 @@ body {
   --accent: #{$accent};
   --anchors: #{$anchors};
   --anchors--visited: #{$anchors--visited};
+  --background: #{$background};
+  --border-color: #{$border-color};
   --text: #{$text};
-  background: $background;
-  color: var(--text);
+  background: rgb(var(--background));
+  color: rgb(var(--text));
   font-family: $font;
   font-size: 15px;
   font-weight: 300;
@@ -110,7 +113,7 @@ body {
 }
 
 *:focus {
-  outline: 4px solid var(--anchors);
+  outline: 4px solid rgb(var(--anchors));
   outline-offset: 8px;
 }
 
@@ -140,7 +143,7 @@ h1 {
 }
 
 h2 {
-  color: var(--accent);
+  color: rgb(var(--accent));
   font-size: 3.5em;
   margin: 1em 0 .5em;
   max-width: 1.15 * 36rem;
@@ -153,10 +156,10 @@ h3 {
 }
 
 a {
-  color: var(--anchors);
+  color: rgb(var(--anchors));
 
   &:visited {
-    color: var(--anchors--visited);
+    color: rgb(var(--anchors--visited));
   }
 }
 
@@ -182,7 +185,7 @@ strong {
 }
 
 blockquote {
-  border-left: .3em solid var(--accent);
+  border-left: .3em solid rgb(var(--accent));
   box-sizing: border-box;
   margin-left: 0;
   max-width: 36em;
@@ -204,9 +207,9 @@ img {
   Header
 \*-------------------------------------*/
 .skip {
-  background: $background;
-  border: 1px solid $text;
-  color: $text;
+  background: rgb(var(--background));
+  border: 1px solid var(--text);
+  color: rgb(var(--text));
   display: block;
   line-height: 1;
   padding: 1em;
@@ -221,21 +224,21 @@ img {
 }
 
 .logo {
-  color: var(--accent);
+  color: rgb(var(--accent));
   margin: 7.5vw 10vw .25em;
   text-transform: uppercase;
 
   &__link {
-    color: var(--accent);
+    color: rgb(var(--accent));
     text-decoration: none;
 
-    &__link:visited {
-      color: var(--accent);
+    &:visited {
+      color: rgb(var(--accent));
     }
   }
 
   &__page {
-    color: var(--text);
+    color: rgb(var(--text));
   }
 }
 
@@ -261,7 +264,7 @@ img {
     font-weight: normal;
     margin: 0 1em;
     padding: 0;
-    text-decoration-color: var(--accent);
+    text-decoration-color: rgb(var(--accent));
 
     &--active {
       font-weight: bold;
@@ -281,8 +284,8 @@ img {
   Table of contents / in-page navigation
 \*-------------------------------------*/
 .toc {
-  background: $background;
-  border-top: 1px solid transparentize($text, .8);
+  background: rgb(var(--background));
+  border-top: 1px solid rgb(var(--border-color));
   bottom: 0;
   box-sizing: border-box;
   left: 0;
@@ -335,7 +338,7 @@ img {
     }
 
     .open a {
-      color: $text;
+      color: rgb(var(--text));
       cursor: text;
       text-decoration: none;
       font-style: italic;
@@ -366,7 +369,7 @@ img {
     text-align: right;
 
     ul {
-      border-right: 1px solid $text;
+      border-right: 1px solid rgb(var(--text));
       list-style: none;
       padding: 0 1.5em 0 0;
     }
@@ -387,9 +390,9 @@ img {
 .home {
   --accent: #{$background};
   --text: #{$background};
-  --anchors: #fff;
-  --anchors--visited: #fff;
-  background: $accent;
+  --anchors: #{$background};
+  --anchors--visited: #{$background};
+  --background: #{$accent};
 
   &__tagline {
     font-size: 10vw;
@@ -415,8 +418,10 @@ img {
     --accent: #{$accent};
     --anchors: #{$anchors};
     --anchors--visited: #{$anchors--visited};
-    background: var(--text);
-    color: $text;
+    --background: #{$background};
+    --text: #{$text};
+    background: rgb(var(--background));
+    color: rgb(var(--text));
     margin: 0 -10vw 5vw;
     padding: .5vw 10vw 5vw;
   }
@@ -428,7 +433,7 @@ img {
   }
 
   footer {
-    --anchors: #fff;
+    --anchors: var(--text);
   }
 }
 
@@ -461,12 +466,15 @@ img {
 }
 
 .card {
+  --accent: #{$accent};
   --anchors: #{$anchors};
   --anchors--visited: #{$anchors--visited};
-  background: $background;
+  --background: #{$background};
+  --text: #{$text};
+  background: rgb(var(--background));
   border-radius: .75em;
-  box-shadow: 0 .2em .5em transparentize($text, .7);
-  color: $text;
+  box-shadow: 0 .2em .5em rgba(var(--text), .3);
+  color: rgb(var(--text));
 }
 
 .page-card {
@@ -483,7 +491,7 @@ img {
   }
 
   &__level {
-    color: $accent;
+    color: rgb(var(--accent));
     font-weight: bold;
     margin: 0 0 .25em;
   }
@@ -509,7 +517,7 @@ img {
   }
 
   &__link {
-    border: 0 solid transparentize($text, .8);
+    border: 0 solid rgb(var(--border-color));
     border-top-width: 1px;
     display: block;
     padding: 1em .5em;
@@ -517,7 +525,7 @@ img {
 
     &[href^='/']:hover,
     &[href^='/']:focus {
-      background: transparentize($text, .9);
+      text-decoration: underline;
     }
 
     &::after {
@@ -538,9 +546,9 @@ img {
 }
 
 .next-page-link {
-  background: var(--accent);
+  background: rgb(var(--accent));
   border-radius: .5em;
-  color: $background;
+  color: rgb(var(--background));
   display: block;
   line-height: 1.2;
   margin-top: 10vw;
@@ -567,7 +575,7 @@ img {
   }
 
   &:visited {
-    color: $background;
+    color: rgb(var(--background));
   }
 
   &::after {
@@ -601,8 +609,6 @@ img {
 
 .updates {
   @extend .card;
-  --anchors: #{$anchors};
-  --accent: #{$accent};
   box-sizing: border-box;
   margin: 6vw auto 2vw;
   padding: .1vw 7.5vw 4vw;
@@ -615,10 +621,10 @@ img {
 }
 
 .button {
-  background: lighten($text, 15%);
+  background: rgb(var(--text));
   border: 0;
   border-radius: .2em;
-  color: $background;
+  color: rgb(var(--background));
   display: inline-block;
   font-family: $font;
   font-size: 1em;
@@ -636,12 +642,13 @@ img {
 
   &:hover,
   &:focus {
-    background: #000;
+    box-shadow: 0 .1em .2em rgba(var(--text), .3);
+    transform: translateY(-.1em);
   }
 }
 
 .text-input {
-  border: 1px solid #ccc;
+  border: 1px solid rgb(var(--border-color));
   border-radius: .2em;
   box-sizing: border-box;
   font-family: $font;
