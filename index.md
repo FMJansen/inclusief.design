@@ -4,7 +4,7 @@ layout: home
 
 <section class="home__why">
 
-## Why?
+## Why do we need an inclusive design scene?
 
 The Dutch design field isn’t an accurate representation of our society*, but it should be. To make sure everyone has a chance to design _and_ access the world around us.
 Also, there are benefits to making sure your company and products are inclusive:
