@@ -26,7 +26,13 @@ It would be great to extend this project by also making it insightful how we’r
 
 ## Contributing
 
-This is (and probably will always be) a work in progress.
+This is (and probably will always be) a work in progress. I still want to:
+- collect more insights, especially about products, process and education
+- get more people (with actual expertise) to contribute
+- improve the workings/looks/setup of this website
+- collect statistics on the make-up of the Dutch design community
+- possibly feature the stories of people who are underrepresented
+- add a Dutch translation
 
 You can contribute by creating a pull request on [GitHub]({{ site.repository }}) or reaching out to me on [Insta](https://www.instagram.com/fmjansennl/), [Twitter](https://twitter.com/fmjansen), [Telegram](https://telegram.me/fmjansen) or [email](mailto:hey@inclusief.design) (hey@inclusief.design).
 
@@ -38,6 +44,7 @@ This website/project was set up by [Floris](https://fmjansen.com), but the ideas
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
 - Jana who suggested A Social Designer’s Field Guide to Power Literacy
 - [Tirza](https://www.linkedin.com/in/tirza-izelaar-4a4571113/) who suggested the talk by Sennay Ghebreab at Wetenschapsagenda
+- [Maxime and Sabine from the Boekmanstichting](https://www.cultuurmonitor.nl/over-ons/#wie-maken-de-cultuurmonitor) who are working on the Cultuurmonitor and pointed me towards the CBS Barometer Culturele Diversiteit
 
 ## Fonts
 
