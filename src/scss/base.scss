@@ -69,8 +69,14 @@ $background: 255, 255, 255;
 $border-color: 200, 200, 200;
 $text: 0, 0, 0;
 $accent: 176, 23, 17;
+$accent--light: 227, 84, 79;
+$accent--dark: 66, 8, 8;
 $anchors: 28, 41, 168;
 $anchors--visited: 152, 22, 164;
+$anchors--light: 164, 172, 255;
+$anchors--x-light: 200, 204, 255;
+$anchors--visited--light: 227, 163, 255;
+$anchors--visited--x-light: 236, 192, 255;
 
 // Breakpoints
 $brk--phone: 768px;
@@ -114,8 +120,10 @@ body {
   @media (prefers-color-scheme: dark) {
     --accent: #{$accent--light};
     --anchors: #{$anchors--light};
-    --background: #{$text};
-    --text: #ddd;
+    --anchors--visited: #{$anchors--visited--light};
+    --background: 20, 20, 20;
+    --border-color: #{$border-color}, .3;
+    --text: #{$background}, .8;
   }
 }
 
@@ -395,12 +403,18 @@ img {
 }
 
 .home {
-  --accent: #{$background};
-  --text: #{$background};
-  --anchors: #{$background};
-  --anchors--visited: #{$background};
+  --accent: #{$background}, .8;
+  --text: #{$background}, .9;
+  --anchors: #{$anchors--x-light};
+  --anchors--visited: #{$anchors--visited--x-light};
   --background: #{$accent};
 
+  @media (prefers-color-scheme: dark) {
+    --background: #{$accent--dark};
+    --anchors: #{$anchors--light};
+    --anchors--visited: #{$anchors--visited--light};
+  }
+  
   &__tagline {
     font-size: 10vw;
     font-weight: normal;
@@ -467,6 +481,17 @@ img {
   border-radius: .75em;
   box-shadow: 0 .2em .5em rgba(var(--text), .3);
   color: rgb(var(--text));
+
+  @media (prefers-color-scheme: dark) {
+    --accent: #{$accent--light};
+    --anchors: #{$anchors--light};
+    --anchors--visited: #{$anchors--visited--light};
+    --background: #{$text};
+    --text: #{$background}, .9;
+    background: rgba(0, 0, 0, .5);
+    box-shadow: 0;
+    border: 1px solid rgb(0, 0, 0);
+  }
 }
 
 .page-card {
