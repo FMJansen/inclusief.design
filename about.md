@@ -38,6 +38,7 @@ This website/project was set up by [Floris](https://fmjansen.com), but the ideas
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
 - Jana who suggested A Social Designer’s Field Guide to Power Literacy
 - [Tirza](https://www.linkedin.com/in/tirza-izelaar-4a4571113/) who suggested the talk by Sennay Ghebreab at Wetenschapsagenda
+- [Maxime and Sabine from the Boekmanstichting](https://www.cultuurmonitor.nl/over-ons/#wie-maken-de-cultuurmonitor) who are working on the Cultuurmonitor and pointed me towards the CBS Barometer Culturele Diversiteit
 
 ## Fonts
 
