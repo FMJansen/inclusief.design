@@ -415,15 +415,8 @@ img {
   }
 
   &__why {
-    --accent: #{$accent};
-    --anchors: #{$anchors};
-    --anchors--visited: #{$anchors--visited};
-    --background: #{$background};
-    --text: #{$text};
-    background: rgb(var(--background));
-    color: rgb(var(--text));
     margin: 0 -10vw 5vw;
-    padding: .5vw 10vw 5vw;
+    padding: 2.5vw 10vw 2.5vw;
   }
 
   h2 {
@@ -438,29 +431,21 @@ img {
 }
 
 .content-overview {
-  &__scroll {
-    margin: 0 -10vw;
-    overflow-x: auto;
-  }
-
   &__container {
-    box-sizing: border-box;
-    display: flex;
-    flex-flow: row nowrap;
-    padding: 0 10vw;
+    column-gap: 1.5em;
+    display: grid;
     width: 100%;
 
-    &::after {
-      content: ' ';
-      display: block;
-      flex-shrink: 0;
-      height: 1px;
-      margin-left: -1em;
-      width: 10vw;
+    @media (min-width: 552px) {
+      grid-template-columns: 1fr 1fr;
+    }
 
-      @media (min-width: $brk--tablet) {
-        display: none;
-      }
+    @media (min-width: $brk--tablet) {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    @media (min-width: $brk--desktop) {
+      column-gap: 3vw;
     }
   }
 }
@@ -481,13 +466,16 @@ img {
   @extend .card;
   flex-grow: 1;
   flex-shrink: 0;
-  margin: 1em 1em 1em 0;
-  padding: 1em 1.5em;
-  width: 10.75em;
+  margin: 1em 0;
+  padding: 2em 1.5em 1em;
+  min-width: 10.75em;
 
-  @media (min-width: $brk--tablet) {
-    margin-right: 3em;
-    padding: 2em 2.5em;
+  @media (min-width: $brk--phone) {
+    padding: 2em 2em 1.5em;
+  }
+
+  @media (min-width: $brk--desktop) {
+    padding: 2.5em 2.5em 2em;
   }
 
   &__level {

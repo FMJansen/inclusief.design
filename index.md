@@ -22,54 +22,52 @@ Also, there are benefits to making sure your organisation and products are inclu
 
 I want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want.
 
-  <div class="content-overview__scroll" markdown="0">
-    <div class="content-overview__container">
+  <div class="content-overview__container" markdown="0">
 
-      <article class="page-card">
-        <img src="/static/img/personal.svg" alt="" width="148" height="150">
-        <p class="page-card__level">Personal</p>
-        <h3 class="page-card__subject">Awareness</h3>
-        <ul class="page-card__parts">
-          <li class="page-card__part">
-            <a class="page-card__link" href="/learn/">
-              Basic concepts</a>
-          </li>
-        </ul>
-      </article>
+    <article class="page-card">
+      <img src="/static/img/personal.svg" alt="" width="148" height="150">
+      <p class="page-card__level">Personal</p>
+      <h3 class="page-card__subject">Awareness</h3>
+      <ul class="page-card__parts">
+        <li class="page-card__part">
+          <a class="page-card__link" href="/learn/">
+            Basic concepts</a>
+        </li>
+      </ul>
+    </article>
 
-      <article class="page-card">
-        <img src="/static/img/environment.svg" alt="" width="151" height="150">
-        <p class="page-card__level">Environment</p>
-        <h3 class="page-card__subject">Company & education</h3>
-        <ul class="page-card__parts">
-          <li class="page-card__part">
-            <a class="page-card__link" href="/environment/#working-environment">
-              Company culture</a>
-          </li>
-          <li class="page-card__part">
-            <a class="page-card__link" href="/environment/#hiring">
-              Hiring</a>
-          </li>
-          <li class="page-card__part">
-            <a class="page-card__link" href="/environment/#design-education">
-              Education</a>
-          </li>
-        </ul>
-      </article>
+    <article class="page-card">
+      <img src="/static/img/environment.svg" alt="" width="151" height="150">
+      <p class="page-card__level">Environment</p>
+      <h3 class="page-card__subject">Company & education</h3>
+      <ul class="page-card__parts">
+        <li class="page-card__part">
+          <a class="page-card__link" href="/environment/#working-environment">
+            Company culture</a>
+        </li>
+        <li class="page-card__part">
+          <a class="page-card__link" href="/environment/#hiring">
+            Hiring</a>
+        </li>
+        <li class="page-card__part">
+          <a class="page-card__link" href="/environment/#design-education">
+            Education</a>
+        </li>
+      </ul>
+    </article>
 
-      <article class="page-card">
-        <img src="/static/img/society.svg" alt="" width="150" height="150">
-        <p class="page-card__level">Society</p>
-        <h3 class="page-card__subject">Process & products</h3>
-        <ul class="page-card__parts">
-          <li class="page-card__part">
-            <a class="page-card__link" href="/process/">
-              Process</a>
-          </li>
-        </ul>
-      </article>
+    <article class="page-card">
+      <img src="/static/img/society.svg" alt="" width="150" height="150">
+      <p class="page-card__level">Society</p>
+      <h3 class="page-card__subject">Process & products</h3>
+      <ul class="page-card__parts">
+        <li class="page-card__part">
+          <a class="page-card__link" href="/process/">
+            Process</a>
+        </li>
+      </ul>
+    </article>
 
-    </div>
   </div>
 
 </section>
