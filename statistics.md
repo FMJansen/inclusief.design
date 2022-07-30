@@ -17,4 +17,6 @@ When we look at related fields, like marketing and communication, the [D&I monit
 ## Cultuurmonitor
 More specific research into the Dutch design scene is being done by the Boekmanstichting with [the Cultuurmonitor](https://www.cultuurmonitor.nl/thema/diversiteit-en-inclusie/), but the results aren’t in, yet.
 
+{% include updates.html %}
+
 </main>
