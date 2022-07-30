@@ -26,7 +26,13 @@ It would be great to extend this project by also making it insightful how we’r
 
 ## Contributing
 
-This is (and probably will always be) a work in progress.
+This is (and probably will always be) a work in progress. I still want to:
+- collect more insights, especially about products, process and education
+- get more people (with actual expertise) to contribute
+- improve the workings/looks/setup of this website
+- collect statistics on the make-up of the Dutch design community
+- possibly feature the stories of people who are underrepresented
+- add a Dutch translation
 
 You can contribute by creating a pull request on [GitHub]({{ site.repository }}) or reaching out to me on [Insta](https://www.instagram.com/fmjansennl/), [Twitter](https://twitter.com/fmjansen), [Telegram](https://telegram.me/fmjansen) or [email](mailto:hey@inclusief.design) (hey@inclusief.design).
 

@@ -7,13 +7,10 @@ layout: home
 ## Why do we need an inclusive design scene?
 
 The Dutch design field isn’t an [accurate representation of our society](/statistics), but it should be. To make sure everyone has a chance to design _and_ access the world around us.
-Also, there are benefits to making sure your company and products are inclusive:
-- Diversity makes recruitment easier, because it’s valued by people who are looking for a job. – [Kim Abreu at Glassdoor](https://www.entrepreneur.com/article/240550)
-- It also makes recruitment easier because you’re looking at a larger group of candidates. – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1241)
-- A diverse team improves creativity and diligence. – [Katherine W. Phillips at Scientific American](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
-- It’s also linked to higher financial returns. – [McKinsey](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
-- More inclusive design solutions work for a broader range of people (which might also mean more users and higher profits). – [Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1207)
-- Solutions for the specific needs of a small group of people might be improvements for many; think of curb cuts and closed captions. – Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/), [Disability Science Review](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785)
+Also, there are benefits to making sure your organisation and products are inclusive:
+- **Easier recruitment:** Diversity makes recruitment easier, because it’s valued by people who are looking for a job ([Kim Abreu](https://www.entrepreneur.com/article/240550)) and you’re looking at a larger group of candidates ([Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1241)).
+- **Better business**: A diverse team improves creativity and diligence ([Katherine W. Phillips](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)) and it’s linked to higher financial returns ([McKinsey](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)).
+- **Better products:** More inclusive design solutions work for a broader range of people, which might also mean more users and higher profits ([Maurice Cherry](https://youtu.be/eBuFCkmyYuA?t=1207)). And solutions for the specific needs of a small group of people might be improvements for many ([Microsoft Design](https://www.microsoft.com/design/inclusive/), [Disability Science Review](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785)); think of curb cuts and closed captions.
 
 </section>
 
@@ -23,7 +20,7 @@ Also, there are benefits to making sure your company and products are inclusive:
 
 ## What can we do?
 
-I want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want. And hopefully, more inclusive designers lead to more diverse and inclusive design agencies/departments, which lead to more just and inclusive design processes & products—and maybe even a more just society.
+I want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want.
 
   <div class="content-overview__scroll" markdown="0">
     <div class="content-overview__container">
@@ -76,20 +73,6 @@ I want to help Dutch designers find out what they can do. So, this is a collecti
   </div>
 
 </section>
-
-
-
-## Next steps
-
-- Collecting more insights, especially about products, process and education
-- Getting more people (with actual expertise) to contribute
-- Improving the workings/looks/setup of this website
-- Collecting statistics on the make-up of the Dutch design community
-- Possibly featuring the stories of people who are underrepresented
-- Adding a Dutch translation
-
-
-
 
 
 
