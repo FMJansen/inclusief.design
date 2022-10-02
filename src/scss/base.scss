@@ -103,6 +103,7 @@ body {
   --anchors--visited: #{$anchors--visited};
   --background: #{$background};
   --border-color: #{$border-color};
+  --horizontal-padding: 5vw;
   --text: #{$text};
   background: rgb(var(--background));
   color: rgb(var(--text));
@@ -114,6 +115,7 @@ body {
   word-wrap: break-word;
 
   @media (min-width: $brk--tablet) {
+    --horizontal-padding: 10vw;
     font-size: 1.15em;
   }
 
@@ -240,7 +242,7 @@ img {
 
 .logo {
   color: rgb(var(--accent));
-  margin: 7.5vw 10vw .25em;
+  margin: 7.5vw var(--horizontal-padding) .25em;
   text-transform: uppercase;
 
   &__link {
@@ -266,8 +268,8 @@ img {
   display: flex;
   flex-flow: row;
   list-style: none;
-  margin-left: -1em;
-  padding-left: 10vw;
+  margin-left: -.75em;
+  padding-left: var(--horizontal-padding);
 
   &__item {
     margin: 0;
@@ -277,7 +279,7 @@ img {
   &__link {
     color: inherit;
     font-weight: normal;
-    margin: 0 1em;
+    margin: 0 .75em;
     padding: 0;
     text-decoration-color: rgb(var(--accent));
 
@@ -399,7 +401,7 @@ img {
   Main
 \*-------------------------------------*/
 .page {
-  padding: 1.5vw 10vw;
+  padding: 1.5vw var(--horizontal-padding);
 }
 
 .home {
@@ -419,7 +421,7 @@ img {
     font-size: 10vw;
     font-weight: normal;
     line-height: 1.2;
-    margin: .9em 10vw .65em;
+    margin: .9em var(--horizontal-padding) .65em;
 
     @media (min-width: $brk--phone) {
       font-size: 6.8vw;
@@ -436,8 +438,8 @@ img {
   }
 
   &__why {
-    margin: 0 -10vw 5vw;
-    padding: 2.5vw 10vw 2.5vw;
+    margin: 0 calc(-1 * var(--horizontal-padding)) 5vw;
+    padding: 2.5vw var(--horizontal-padding) 2.5vw;
   }
 
   h2 {
@@ -614,7 +616,7 @@ img {
   Footer
 \*-------------------------------------*/
 .contributing {
-  padding: 0 10vw 2vw;
+  padding: 0 var(--horizontal-padding) 2vw;
   text-align: center;
 
   h2 {
@@ -682,7 +684,7 @@ img {
   &__contact {
     max-width: none;
     opacity: .8;
-    padding: 2vw 10vw;
+    padding: 2vw var(--horizontal-padding);
     text-align: center;
   }
 }
