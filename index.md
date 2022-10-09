@@ -20,7 +20,7 @@ Also, there are benefits to making sure your organisation and products are inclu
 
 ## What can we do?
 
-I want to help Dutch designers find out what they can do. So, this is a collection of learnings from marginalized communities both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want.
+Learn! So, this is a collection of learnings from marginalized communities and others, both in and outside of The Netherlands and the field of design. You can use it as inspiration, a checklist, a reading guide, or however you want.
 
   <div class="content-overview__container" markdown="0">
 
