@@ -28,7 +28,8 @@ permalink: /:basename/
 
 ## Accessibility
 - Make your digital products accessible, test it, and iterate, according to the [WCAG](https://www.w3.org/TR/WCAG21/), with help from [DigiToegankelijkheid](https://www.digitoegankelijk.nl/aanpak), [GOV.UK](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction), [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/ "Smashing Magazine article describing several lenses to look at your digital design to improve accessibility"), [Inclusive Design Principles](https://inclusivedesignprinciples.org/), [Exclusive Design Principles](https://exclusive-design.vasilis.nl/)
-  - Make your design system as accessible as possible, so the teams using the components and patterns can focus on the harder problems. – [Nick Colley](https://www.youtube.com/watch?v=OeyMEDPnPcE1)
+- Make your design system as accessible as possible, so the teams using the components and patterns can focus on the harder problems. – [Nick Colley](https://www.youtube.com/watch?v=OeyMEDPnPcE1)
+- Remember that the WCAG is a minimum requirement to meet and does not guarantee a great user experience. Testing with people who use assistive technologies (e.g. screen readers) is important to make your product more accessible. – [Hidde de Vries](https://hidde.blog/accessibility-objectivity/)
 
 ## Miscellaneous
 - Realize that exclusionary atoms in a design system will lead to an exclusionary society through some steps in between, but also the other way around: inclusive atoms lead to a more inclusive society, plus the existing exclusionary aspects of society can trickle into the product if you’re not resisting it relentlessly. – [Tatiana Mac](https://areena.yle.fi/1-50271945)
