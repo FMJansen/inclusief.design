@@ -17,7 +17,7 @@ permalink: /:basename/
 <img src="/static/img/society.svg" alt="An illustration of a globe, messaging app icon and toaster in front of a red blob.">
 
 ## Power & process
-- Remember you’re always excluding people (from usability tests, interviews, co-design workshops, etc.), so you can be conscious about who you are excluding and ask ‘Who are we missing?’. – [Kat Holmes](https://katholmesdesign.com/) in [Mismatch](https://mismatch.design/), [Tatiana Mac](https://areena.yle.fi/1-50271945), [Benjamin Evans](https://twitter.com/benjamineevans)
+- Remember you’re always excluding people (from usability tests, interviews, co-design workshops, etc.), so you can be conscious about who you are excluding and ask ‘Who are we missing?’. – [Kat Holmes](https://www.linkedin.com/in/katholmes/) in [Mismatch](https://mitpress.mit.edu/9780262539487/mismatch/), [Tatiana Mac](https://areena.yle.fi/1-50271945), [Benjamin Evans](https://twitter.com/benjamineevans)
 - Also consider the power relations in the social/service/system design process, by looking at your own privileges and who gets to be present, decide the design goal, decide what is ‘normal’ in the group, and what role different stakeholders have. – [Maya Goodwill](https://www.power-literacy.com/about) in her [A Social Designer’s Field Guide to Power Literacy](https://www.power-literacy.com)
 
 ## Language

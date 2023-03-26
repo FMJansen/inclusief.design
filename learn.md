@@ -29,7 +29,7 @@ The Conscious Kid has a great page focussed on some [key terms relating to racia
 The [toolkit for Inclusie](https://inclusie.gebruikercentraal.nl/) describes ‘inclusion’ as:
 > “making sure all humans can participate in society, regardless of their diversity in physical, cognitive (including lingual) and psychosocial capabilities, and the circumstances under which they live.” – translated from Dutch from [Wat is ontwerpen voor inclusie?](https://inclusie.gebruikercentraal.nl/over-de-toolkit-inclusie/wat-is-ontwerpen-voor-inclusie/)
 
-[Kat Holmes](https://katholmesdesign.com/) describes it from a different perspective in her book [Mismatch](https://mismatch.design/), where inclusivity concerns recognizing who is left out and what causes those mismatches. This is also reflected in Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/) methodology.
+[Kat Holmes](https://www.linkedin.com/in/katholmes/) describes it from a different perspective in her book [Mismatch](https://mitpress.mit.edu/9780262539487/mismatch/), where inclusivity concerns recognizing who is left out and what causes those mismatches. This is also reflected in Microsoft Design’s [_Inclusive Design_](https://www.microsoft.com/design/inclusive/) methodology.
 
 ## Accessibility
 One way to describe or define accessibility is the following:
