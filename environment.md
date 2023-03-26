@@ -87,6 +87,6 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 {: .next-page}
 
 
-[^1]: BNO has [mentoring](https://www.bno.nl/page/bno-mentoring) and [coaching](https://www.bno.nl/page/bno-coaching) programs, but it’s only for members and a one-time thing or paid.
+[^1]: BNO has [mentoring](https://www.bno.nl/mentoring) and [coaching](https://www.bno.nl/coaching) programs, but it’s only for members and a one-time thing or paid.
 
 </main>
