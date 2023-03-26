@@ -38,6 +38,9 @@ permalink: /:basename/
 ## Algorithms
 - Beware that human biases can transfer into the data sets and algorithms when using machine learning. So, fight the notion that machines are objective and make sure the creators of the data sets and algorithms you implement/hire are working inclusively, too. – [Dr. Safiya Umoja Noble](https://safiyaunoble.com/) in [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/); [Sennay Ghebreab at Wetenschapsagenda, NL](https://www.instagram.com/p/CIOeMtVlkjS/)
 
+## Digital inclusion
+- Understand that not everyone has continuous access to stable and fast internet, a personal device with a large screen, and the skills and motivation to use digital products. So, design for offline use, low bandwidths, small screens, shared device usage, privacy, and security. Additionally, make sure the digital interaction is not the only way to achieve something, but also offer channels like phone calls or face-to-face meetings. – [Alliantie Digitaal Samenleven](https://digitaalsamenleven.nl)
+
 ## More resources
 
 ### Methodology
