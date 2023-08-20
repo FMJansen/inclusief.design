@@ -9,7 +9,7 @@ title: Privacy policy
 The website is made and hosted by [Floris Jansen](https://fmjansen.com)
 
 ## What data I collect and why
-You can sign up for an email update with [TinyLetter](https://tinyletter.com/inclusiefdesign) by [Mailchimp](https://mailchimp.com/). In that case, I will use your name and email address to send you updates. [Their privacy policy](https://mailchimp.com/legal/privacy/) applies, too, if you sign up. You can unsubscribe at any moment using the link at the bottom of the emails.
+You can sign up for an email update with [Buttondown](https://buttondown.email). In that case, I will use your name and email address to send you updates. [Their privacy policy](https://buttondown.email/legal/privacy/) applies, too, if you sign up. You can unsubscribe at any moment using the link at the bottom of the emails.
 
 Otherwise, I don’t actively collect any data. Data could end up in my possession, though, if you send me an email or message on a social network. In that case, I will receive the data you send me, and this gets stored on the servers of the respective service, so I can actually see and read your message.
 
