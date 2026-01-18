@@ -41,7 +41,7 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 ## Hiring
 
 - Improve the language in your job descriptions, for example with the tips from [Hire More Women in Tech](https://www.hiremorewomenintech.com/#block-yui_3_17_2_1_1404580746562_9726), and maybe by using tools such as [Textio](https://textio.com/). For Dutch listings, you could get started with [(Incomplete) Stijlgids voor inclusieve (beeld)taal](https://www.womeninc.nl/wp-content/uploads/2022/01/WI-Stijlgids-2022.pdf) from [Women Inc](https://www.womeninc.nl/)
-- Make sure to bring your positions to the attention outside of your network. – [Melody Joy Kramer](https://twitter.com/mkramer) at [Poynter](https://www.poynter.org/business-work/2017/5-ways-to-make-your-journalism-job-descriptions-better/), [Stephanie Foo](https://www.stephaniefoo.me/) at [Transom](https://transom.org/2015/stephanie-foo/)
+- Make sure to bring your positions to the attention outside of your network. – [Melody Joy Kramer](https://www.poynter.org/author/melody-kramer/) at [Poynter](https://www.poynter.org/business-work/2017/5-ways-to-make-your-journalism-job-descriptions-better/), [Stephanie Foo](https://www.stephaniefoo.me/) at [Transom](https://transom.org/2015/stephanie-foo/)
 - “Train and hold accountable everyone involved in the hiring process.” and formalize the process (e.g. interview questions and a rubric) to make the treatment of candidates fair and equal. – [stacy-marie ishmael](https://medium.com/@s_m_i/lessons-in-inclusive-hiring-what-ive-learnt-d8501d8925d5)
 - When _being_ interviewed, ask about diversity and inclusion.  – [Sameera Kapila](https://youtu.be/5pj8E-XbRzE?t=1712)
 
@@ -54,7 +54,7 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 - [Black Designers: Missing in Action](https://web.archive.org/web/20200613211451/https://www.printmag.com/design-culture-2/history-2/blacks-in-design-1987/) is an article from 1987 about how the graphic design field in the USA was lacking black designers. Written by [Cheryl D. Miller](https://web.archive.org/web/20210419185510/https://www.aiga.org/diversity-inclusion-design-journeys-essay-cheryl-d-miller). The same article is also available as a [scan of the original print](https://www.scribd.com/document/287765658/Black-Designers-Missing-in-Action-by-Cheryl-D-Miller).
     - She also organized a conference in 1991, called [Why is graphic design 93% white?](https://web.archive.org/web/20210423145027/https://www.aiga.org/aiga/content/tools-and-resources/diversity-and-inclusion/why-is-graphic-design-93-white/)
     - In the same magazine, there has also been a discussion by five black graphic designers in 1968: [The Black Experience in Graphic Design](https://www.printmag.com/design-culture-2/history-2/the-black-experience-1968/).
-- [Helena Price Ambrecht](https://twitter.com/helena), the photographer/interviewer of [Techies](https://techiesproject.com/), wrote [about how you can help](https://medium.com/techies-project/techies-project-how-you-can-help-a494284ca7d6).
+- [Helena Price](https://helenaprice.com/), the photographer/interviewer of [Techies](https://techiesproject.com/), wrote [about how you can help](https://medium.com/techies-project/techies-project-how-you-can-help-a494284ca7d6).
 - [Sameera Kapila](https://samkapila.com/) wrote a [Twitter thread](https://web.archive.org/web/20210728003849/https://threadreaderapp.com/thread/1267160838911201281.html) on things you can do in the design field by
   - She also has a [page on her website](https://samkapila.com/inclusion/) listing resources on equity & inclusion,
   - recommends [Teaching to Transgress](https://www.goodreads.com/book/show/27091.Teaching_to_Transgress) for design educators, which talks about “How should we deal with racism and sexism in the classroom?”, among other things,
@@ -71,13 +71,13 @@ There’s much more at [Project Include](https://projectinclude.org/recommendati
 - [Code2040](https://www.code2040.org/) is a program working to “[activate, connect, and mobilize the largest racial equity community in tech](https://www.code2040.org/mission)”.
 - [Tech Ladies](https://www.hiretechladies.com/) is a worldwide community with a supportive online group, a free job board, and opportunities to learn.
 - [PowerToFly](https://powertofly.com) is a platform to propel diversity recruiting and hiring. They help reaching talent pools of underrepresented female engineers at a centralized and lower cost
-- [Hue Design Summit](https://huedesignsummit.com) is an “un-conference for black developers & designers to foster relationships & build community.”
+- [Hue Design Summit](https://web.archive.org/web/20221029142717/https://huedesignsummit.com/) was an “un-conference for black developers & designers to foster relationships & build community.”
 - [Blacks Who Design](https://blackswho.design) highlights, well, black designers. [They link](https://blackswho.design/about) to similar projects for [women](https://womenwho.design) and [Latinxs](https://latinxswhodesign.com).
 - [BIPOC Studios](https://bit.ly/bipoc-studios) is a list of architecture and design studios (most also owned by women and/or black people). At the moment of writing it features one Dutch studio, [Afara](https://www.afarai.com/).
 - [DesignExplorr](https://designexplorr.com) is “an organization that operates as a social enterprise to address the diversity gap within the design profession.”
 - [Women Talk Design](https://womentalkdesign.com/) helps you find women and gender non-binary speakers for events.
 - [Techies](https://techiesproject.com/) highlights people of color and other people who are underrepresented in the tech narrative.
-- [A Seat At The Table](https://aseat.org/) was (an exhibition about) a survey by [Equality in Design](https://equalityindesign.tumblr.com/), a student group at the Yale School of Architecture.
+- [A Seat At The Table](https://web.archive.org/web/20211028180033/https://aseat.org/) was (an exhibition about) a survey by [Equality in Design](https://equalityindesign.tumblr.com/), a student group at the Yale School of Architecture.
 - [NL] [Diversity Talks](https://diversitytalks.nl) is a Amsterdam based organisation focussed on improving diversity en inclusion in society, fair higher education and equal opportunity in the road towards it.
 - [NL] [Studio i](https://studio-inclusie.nl) is a platform for inclusivity in the Dutch cultural sector.
 

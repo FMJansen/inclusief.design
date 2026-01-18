@@ -23,7 +23,7 @@ When trying to make your design process, products and people more inclusive, the
 Designers love debating about what design is, but for this website it might be defined as creating products, services, systems and spaces with a certain intent. It’s especially approached from the academic and industrial design point of view, with a human centred approach.
 
 ## Racism, equity, intersection&shy;ality, etc.
-The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be a co-conspirator](https://www.theconsciouskid.org/how-to-be-a-coconspirator), which might be good to work on personally.
+The Conscious Kid has a great page focussed on some [key terms relating to racial literacy](https://web.archive.org/web/20240118222333/https://www.theconsciouskid.org/racial-literacy-key-terms). They’ve also listed a *lot* of steps on [how to be a co-conspirator](https://web.archive.org/web/20210511215751/https://www.theconsciouskid.org/how-to-be-a-coconspirator), which might be good to work on personally.
 
 ## Inclusivity
 The [toolkit for Inclusie](https://inclusie.gebruikercentraal.nl/) describes ‘inclusion’ as:
@@ -59,10 +59,10 @@ Design history, values and work in the West,
 
 Decolonisation is then a process about realising design history and experience are not universal, about not [(mis)appropriating](#cultural-misappropriation) design elements, and about creating space for designers outside of the Western norm, among other things. – Summarised from [What Does It Mean to Decolonize Design?](https://eyeondesign.aiga.org/what-does-it-mean-to-decolonize-design/) 
 
-However, this concept is still understood differently among people. [Anoushka Khandwala](https://anoushkakhandwala.com/about) expanded on her article mentioned above in [“Decolonizing Means Many Things to Many People”—Four Practitioners Discuss Decolonizing Design](https://eyeondesign.aiga.org/decolonizing-means-many-things-to-many-people-four-practitioners-discuss-decolonizing-design). There is also a really extensive [decolonizing design reader](https://docs.google.com/document/d/1Hbymt6a3zz044xF_LCqGfTmXJip3cetj5sHlxZEjtJ4/edit), started by [Ramon Tejada](https://ramongd.net/)
+However, this concept is still understood differently among people. [Anoushka Khandwala](https://anoushkakhandwala.com/) expanded on her article mentioned above in [“Decolonizing Means Many Things to Many People”—Four Practitioners Discuss Decolonizing Design](https://eyeondesign.aiga.org/decolonizing-means-many-things-to-many-people-four-practitioners-discuss-decolonizing-design). There is also a really extensive [decolonizing design reader](https://www.are.na/ramon-tejada-ox4e5gvrosu/the-decolonizing-or-puncturing-design-reader), started by [Ramon Tejada](https://ramongd.net/)
 
 ## More resources
-- [Alonzo Felix](https://twitter.com/alonzofelix) compiled an [anti-racism guide](https://alonzofelix.notion.site/alonzofelix/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
+- [Alonzo Felix](https://www.linkedin.com/in/alonzofelix) compiled an [anti-racism guide](https://alonzofelix.notion.site/alonzofelix/Anti-racism-Guide-31ae62793b684ea1bdddefe8cfa84c19) (which isn’t necessarily design oriented, but relevant nonetheless).
 - [Diversity, Equity, and Inclusion](https://www.aiga.org/membership-community/diversity-equity-inclusion) and [Diversity & Inclusion: learning basics](https://www.aiga.org/resources/diversity-inclusion-learning-basics) – AIGA
 - [NL] [Wit Huiswerk](https://www.withuiswerk.nl/) is a collection of general resources for people who want to be active in the fight against racism.
 - [NL] The Dutch podcast [Brutale Klimaatvragen](https://open.spotify.com/show/1FpEa2Dra62DY0TQYAKAGI?si=FadaH1JlSzKMsq_ZCnmq1Q) has an episode on [‘diversity in the climate world’](https://open.spotify.com/episode/3XFQtaj9XcddqxHKQY67yQ?si=dKFcUlCQQOKGlsfioriFAg).

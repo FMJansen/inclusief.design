@@ -39,8 +39,8 @@ You can contribute by creating a pull request on [GitHub]({{ site.repository }})
 ## Thanks
 
 This website/project was set up by [Floris](https://fmjansen.com), but the ideas represented here are obviously not my own, but those of all the people of colour, people with a non-binary gender identity, people with disabilities, and those in any other marginalized communities who have been writing about these topics for decades. There are also some people who’ve contributed to this project:
-- [Tycho](https://twitter.com/tychografie) who suggested some of the resources and examples
-- [Dezge](https://twitter.com/Deszie_) who suggested Diversity Talks
+- [Tycho](https://www.tychografie.nl/) who suggested some of the resources and examples
+- Dezge who suggested Diversity Talks
 - [Khalid](https://www.instagram.com/khachel/) who has been thinking along and giving (mental) support
 - Jana who suggested A Social Designer’s Field Guide to Power Literacy
 - [Tirza](https://www.linkedin.com/in/tirza-izelaar-4a4571113/) who suggested the talk by Sennay Ghebreab at Wetenschapsagenda
@@ -48,7 +48,7 @@ This website/project was set up by [Floris](https://fmjansen.com), but the ideas
 
 ## Fonts
 
-[Martin](https://www.vocaltype.co/history-of/martin) by [Vocal Type Co.](https://www.vocaltype.co/story-of) for the headings and [Lora](https://fonts.google.com/specimen/Lora?category=Serif&preview.size=18&preview.text_type=paragraph) by [Cyreal](http://www.cyreal.org/) for the body text.
+[Martin](https://www.vocaltype.co/history-of/martin) by [Vocal Type Co.](https://www.vocaltype.co/) for the headings and [Lora](https://fonts.google.com/specimen/Lora?category=Serif&preview.size=18&preview.text_type=paragraph) by [Cyreal](http://www.cyreal.org/) for the body text.
 
 {% include updates.html %}
 
