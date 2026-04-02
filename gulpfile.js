@@ -1,62 +1,34 @@
 // Include gulp
-var gulp = require('gulp');
+import gulp from 'gulp';
 
 // Include plugins
-var log = require('fancy-log');
-var colors = require('ansi-colors');
+import log from 'fancy-log';
+import colors from 'ansi-colors';
 
-var concat = require('gulp-concat');
-var uglify = require('gulp-uglify');
-var rename = require('gulp-rename');
+import rename from 'gulp-rename';
 
-var plumber = require('gulp-plumber');
-var sass = require('gulp-sass')(require('sass'));
-var sourcemaps = require('gulp-sourcemaps');
-var prefix = require('gulp-autoprefixer');
+import plumber from 'gulp-plumber';
+import * as sass from 'sass';
+import gulpSass from 'gulp-sass';
+const usingSass = gulpSass(sass);
+import sourcemaps from 'gulp-sourcemaps';
+import prefix from 'gulp-autoprefixer';
 
-var cache = require('gulp-cache');
+import cache from 'gulp-cache';
 
-var clone = require('gulp-clone');
-var sink = clone.sink();
-var webp = require('gulp-webp');
+import clone from 'gulp-clone';
 
 // Include browsersync
-var browserSync = require('browser-sync').create();
+import browserSyncImport from 'browser-sync'
+var browserSync = browserSyncImport.create();
 
-var child = require('child_process');
+import child from 'child_process'
 
 
 
 // Paths
 var src = 'src/';
 var dest = 'static/';
-
-
-
-// Concatenate & minify JS
-gulp.task('scripts', function() {
-    return gulp.src(src + 'js/*.js')
-        .pipe(plumber(function(error) {
-            log(colors.red(error.message));
-            this.emit('end');
-        }))
-        .pipe(concat('main.js'))
-        .pipe(uglify())
-        .pipe(gulp.dest(dest + 'js'));
-});
-
-// Concatenate & sourcemap JS
-gulp.task('scriptsDev', function() {
-    return gulp.src(src + 'js/*.js')
-        .pipe(plumber(function(error) {
-            log(colors.red(error.message));
-            this.emit('end');
-        }))
-        .pipe(sourcemaps.init())
-        .pipe(concat('main.js'))
-        .pipe(sourcemaps.write())
-        .pipe(gulp.dest(dest + 'js'));
-});
 
 
 
@@ -67,7 +39,7 @@ gulp.task('sass', function() {
             log(colors.red(error.message));
             this.emit('end');
         }))
-        .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+        .pipe(usingSass({style: 'compressed'}).on('error', usingSass.logError))
         .pipe(prefix())
         .pipe(rename('main.css'))
         .pipe(gulp.dest(dest + 'css'));
@@ -81,7 +53,7 @@ gulp.task('sassDev', function() {
             this.emit('end');
         }))
         .pipe(sourcemaps.init())
-        .pipe(sass().on('error', sass.logError))
+        .pipe(usingSass().on('error', usingSass.logError))
         .pipe(sourcemaps.write())
         .pipe(rename('main.css'))
         .pipe(gulp.dest(dest + 'css'))
@@ -95,32 +67,27 @@ gulp.task('copy-scss', function() {
 });
 
 
-
-// Copy & Webp images
+// Copy & min images
 gulp.task('images', function() {
-    return gulp.src([
-      src + 'images/**/*' ])
-        .pipe(sink)
-        .pipe(webp())
-        .pipe(sink.tap())
+    return gulp.src(src + 'images/*',  { encoding: false })
         .pipe(gulp.dest(dest + 'img'));
 });
 
 
 
 gulp.task('jekyll', function() {
-  const jekyll = child.spawn('bundle', ['exec', 'jekyll', 'build']);
+    const jekyll = child.spawn('bundle', ['exec', 'jekyll', 'build']);
 
-  const jekyllLogger = (buffer) => {
-    buffer.toString()
-      .split(/\n/)
-      .forEach((message) => log(('Jekyll: ' + message)));
-  };
+    const jekyllLogger = (buffer) => {
+        buffer.toString()
+            .split(/\n/)
+            .forEach((message) => log(('Jekyll: ' + message)));
+    };
 
-  jekyll.stdout.on('data', jekyllLogger);
-  jekyll.stderr.on('data', jekyllLogger);
+    jekyll.stdout.on('data', jekyllLogger);
+    jekyll.stderr.on('data', jekyllLogger);
 
-  return Promise.resolve('done jekyll');
+    return Promise.resolve('done jekyll');
 });
 
 
@@ -137,7 +104,6 @@ gulp.task('serve', function() {
     gulp.watch("src/scss/*.scss", gulp.series('sassDev'));
     gulp.watch("*.html").on('change', browserSync.reload);
     gulp.watch("*.md").on('change', browserSync.reload);
-    gulp.watch("src/js/*.js", gulp.series('scriptsDev'));
 });
 
 
@@ -146,14 +112,14 @@ gulp.task('serve', function() {
 gulp.task('default',
     gulp.series(
         'serve',
-        gulp.parallel('sassDev', 'scriptsDev', 'copy-scss', 'images')
+        gulp.parallel('sassDev', 'copy-scss')
     )
 );
 
 
 
 // Build task: everything minified only
-gulp.task('build', gulp.parallel('scripts', 'sass', 'images'));
+gulp.task('build', gulp.parallel('sass', 'images'));
 
 
 
